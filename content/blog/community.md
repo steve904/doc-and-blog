@@ -1,23 +1,21 @@
 ---
-title: Community Round-up 2
+title: Nice Photographs
 excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem turpis at.
+  A variety of photographs that have caught my eye. I am pleased to share these with you.
 date: '2021-04-08'
 image: images/2.jpg
 seo:
-  title: Community Round-up
-  description: Commodo ante vis placerat interdum massa massa primis
+  title: Nice Photographs
+  description: Images from Unsplash.com
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Community Round-up
+      value: Nice Photographs
       keyName: property
     - name: 'og:description'
-      value: Commodo ante vis placerat interdum massa massa primis
+      value: Images from Unsplash.com
       keyName: property
     - name: 'og:image'
       value: images/2.jpg
@@ -26,9 +24,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Community Round-up
+      value: Nice Photographs
     - name: 'twitter:description'
-      value: Commodo ante vis placerat interdum massa massa primis
+      value: Images from Unsplash.com
     - name: 'twitter:image'
       value: images/2.jpg
       relativeUrl: true
