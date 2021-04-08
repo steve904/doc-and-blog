@@ -3,7 +3,7 @@ baseURL: /
 params:
   palette: blue
   header:
-    title: Libris
+    title: Doc and Blog
     logo_img: images/logo.svg
     logo_img_alt: Libris logo
     has_nav: true
