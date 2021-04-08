@@ -3,11 +3,10 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section
+    title: Doc and Blog
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Welcome to Doc and Blog. Keeping the documents and the blogs at the same place.
     actions:
       - label: Get Started
         url: /docs
