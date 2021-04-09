@@ -43,15 +43,6 @@ sections:
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
-
-      <button type="button" class="btn btn-outline-primary">Primary</button>
-<button type="button" class="btn btn-outline-secondary">Secondary</button>
-<button type="button" class="btn btn-outline-success">Success</button>
-<button type="button" class="btn btn-outline-danger">Danger</button>
-<button type="button" class="btn btn-outline-warning">Warning</button>
-<button type="button" class="btn btn-outline-info">Info</button>
-<button type="button" class="btn btn-outline-light">Light</button>
-<button type="button" class="btn btn-outline-dark">Dark</button>
     actions:
       - label: View Demo
         url: /docs/getting-started
