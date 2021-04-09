@@ -3,7 +3,7 @@ title: Nice Photographs
 excerpt: >-
   A variety of photographs that have caught my eye. I am pleased to share these with you.
 date: '2021-04-08'
-image: images/2.jpg
+image: images/wheeler-geo-john-fowler.jpg
 seo:
   title: Nice Photographs
   description: Images from Unsplash.com
@@ -52,4 +52,4 @@ I have seen lots of other photographers canyon shots and they just don't cut the
 
 
 > “What i like about photographs is that they capture a moment that’s gone forever, impossible to reproduce.”
-― Karl Lagerfeld 
+― Karl Lagerfeld
