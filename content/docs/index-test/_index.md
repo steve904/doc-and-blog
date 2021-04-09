@@ -1,6 +1,5 @@
 ---
 title: Home-2-experiment
-
 sections:
   - section_id: hero
     type: section_hero
