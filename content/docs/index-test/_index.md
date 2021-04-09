@@ -1,8 +1,5 @@
 ---
 title: Home-2-experiment
-My text in an purple box.
-{: .alert .alert-gitlab-purple}
-
 sections:
   - section_id: hero
     type: section_hero
