@@ -5,7 +5,7 @@ excerpt: >-
   sapien blandit ac amet faucibus aliquet placerat commodo. Antealiquet commodo
   accumsan vis phasellus adipiscing.
 date: '2021-04-09'
-thumb_image: images/wheeler-geo-john-fowler.jpg
+thumb_image: images/john-fowler-unsplash.jpg
 image: images/wheeler-geo-john-fowler.jpg
 seo:
   title: Introducing The Libris Theme
