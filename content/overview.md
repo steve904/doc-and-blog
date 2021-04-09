@@ -8,7 +8,7 @@ sections:
     content: Easy Grid View of Docs
   - section_id: docs-overview
     type: section_docs
-    col_number: six
+    col_number: three
   - section_id: cta
     type: section_cta
     title: The Title of The Call to Action Block
