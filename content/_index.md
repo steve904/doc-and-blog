@@ -13,7 +13,7 @@ sections:
         style: primary
   - section_id: features
     type: section_grid
-    col_number: three
+    col_number: two
     grid_items:
       - title: Documentation
         content: >-
@@ -32,7 +32,7 @@ sections:
           - label: View Posts
             url: /blog
             style: link
-  
+
   - section_id: text-img
     type: section_content
     image: images/jamstack.svg
