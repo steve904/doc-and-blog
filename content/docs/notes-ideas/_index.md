@@ -26,7 +26,7 @@ layout: docs
 
 <div class="note">
   <strong>Note:</strong>
-  This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
+  A ton of notes & ideas are in the CherryTree file on my local machine. <strong>CherryTree</strong> 
 </div>
 
 * What is your next doc that you will post?
