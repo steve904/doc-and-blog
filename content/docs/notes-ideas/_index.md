@@ -20,13 +20,13 @@ seo:
     - name: 'twitter:title'
       value: Notes & Ideas
     - name: 'twitter:description'
-      value: Put your notes & ideas on this page
+      value: Notes & Ideas
 layout: docs
 ---
 
 <div class="note">
   <strong>Note:</strong>
-  A ton of notes & ideas are in the CherryTree file on my local machine. <strong>CherryTree</strong> 
+  A ton of notes & ideas are in the CherryTree file on my local machine. <strong>CherryTree</strong>
 </div>
 
 * What is your next doc that you will post?
