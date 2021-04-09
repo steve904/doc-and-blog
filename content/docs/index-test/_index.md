@@ -1,5 +1,9 @@
 ---
-title: Home-2
+title: Home-2-experiment
+My text in an purple box.
+{: .alert .alert-gitlab-purple}
+
+GitLab Webcast Alert Box
 sections:
   - section_id: hero
     type: section_hero
