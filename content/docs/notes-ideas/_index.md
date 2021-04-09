@@ -1,5 +1,6 @@
 ---
 title: Notes & Ideas
+weight: 3
 excerpt: >-
   Put your notes & ideas on this page.
 seo:
