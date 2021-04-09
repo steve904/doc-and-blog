@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Doc and Blog
-    image: images/5.jpg
+    image: images/wheeler-geo-john-fowler.jpg
     content: >-
       Welcome to Doc and Blog. Keeping the documents and the blogs at the same place.
     actions:
