@@ -20,25 +20,7 @@ params:
         url: /blog
         style: link
         has_subnav: false
-      - label: Sample Pages
-        url: '#'
-        style: link
-        has_subnav: true
-        subnav_links:
-          - label: Overview
-            url: /overview
-            style: link
-          - label: Showcase
-            url: /showcase
-            style: link
-      - label: Style Guide
-        url: /style-guide
-        style: link
-        has_subnav: false
-      - label: GitHub
-        url: 'https://github.com/'
-        style: primary
-        has_subnav: false
+      
   footer:
     content: >-
       &copy; Stackbit. All rights reserved. This Jamstack site was created with
