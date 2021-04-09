@@ -3,6 +3,7 @@ title: Nice Photographs
 excerpt: >-
   A variety of photographs that have caught my eye. I am pleased to share these with you.
 date: '2021-04-08'
+thumb_image: images/wheeler-geo-john-fowler.jpg
 image: images/wheeler-geo-john-fowler.jpg
 seo:
   title: Nice Photographs
