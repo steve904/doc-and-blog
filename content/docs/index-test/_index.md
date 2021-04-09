@@ -92,7 +92,7 @@ sections:
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
-        style: secondary
+        style: primary
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
