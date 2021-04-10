@@ -48,5 +48,9 @@ LuLu is a real cutie-pie. So loving and just like any other cat...independent.
 
 [Home](/)
 
+Hi, I'm Stephen Causey...
+
 ***Check out my Dirt Road Blog***
 https://www.dirtroadblog.com/
+
+A great day to you!
