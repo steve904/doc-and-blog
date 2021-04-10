@@ -63,7 +63,7 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Sample Layouts
-    subtitle: Some very nice theme layouts
+    subtitle: Some very nice layouts
     col_number: two
     grid_items:
       - title: Overview
