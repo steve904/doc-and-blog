@@ -86,8 +86,8 @@ sections:
             style: link
   - section_id: cta
     type: section_cta
-    title: The Title of The Call to Action Block
-    subtitle: This is an optional description for the call to action block.
+    title: Doc and Blog
+    subtitle: Where it happens in one place...Doc and Blog
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
