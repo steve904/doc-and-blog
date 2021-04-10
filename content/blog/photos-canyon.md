@@ -56,3 +56,6 @@ I have seen lots of other photographers canyon shots and they just don't cut the
 ― Karl Lagerfeld
 
 [Home](/)
+
+Check out my Dirt Road Blog
+https://www.dirtroadblog.com/
