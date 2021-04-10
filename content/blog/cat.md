@@ -36,7 +36,7 @@ layout: post
 
 **LuLu the cat**, sleep anywhere you like...even in dog bowls
 
-I can sleep anywhere and make it look comfortable. Bet you can't do that.
+**I can sleep anywhere and make it look comfortable. Bet you can't do that.**
 
 LuLu is a real cutie-pie. So loving and just like any other cat...independent.
 
