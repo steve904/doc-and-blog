@@ -3,6 +3,8 @@ title: Beautiful Day Today
 excerpt: >-
   Then sun was shining and the sky was very nice. Lot's of new blooms on the plants and trees. Red Bud trees look very handsome.
 
+  <!--more-->
+
   ***Check out my Dirt Road Blog***
   https://www.dirtroadblog.com/
 date: '2021-04-09'
@@ -42,6 +44,10 @@ seo:
       relativeUrl: true
 layout: post
 ---
+
+### Handsome Day
+
+Then sun was shining and the sky was very nice. Lot's of new blooms on the plants and trees. Red Bud trees look very handsome.
 
 ### Azalea
 
