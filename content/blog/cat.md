@@ -2,7 +2,7 @@
 title: Lulu Cat
 excerpt: >-
   I can sleep anywhere and make it look comfortable. Bet you can't do that.
-date: '2020-04-10'
+date: '2021-04-10'
 thumb_image: images/lulu-dog-bowl.JPG
 image: images/lulu-dog-bowl.JPG
 seo:
