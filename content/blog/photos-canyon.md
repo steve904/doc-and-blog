@@ -54,3 +54,5 @@ I have seen lots of other photographers canyon shots and they just don't cut the
 
 > “What i like about photographs is that they capture a moment that’s gone forever, impossible to reproduce.”
 ― Karl Lagerfeld
+
+[Home](/)
