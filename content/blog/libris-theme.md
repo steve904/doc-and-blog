@@ -2,11 +2,6 @@
 title: Beautiful Day Today
 excerpt: >-
   Then sun was shining and the sky was very nice. Lot's of new blooms on the plants and trees. Red Bud trees look very handsome.
-
-  <!--more-->
-
-  ***Check out my Dirt Road Blog***
-  https://www.dirtroadblog.com/
 date: '2021-04-09'
 thumb_image: images/john-fowler-unsplash.jpg
 image: images/wheeler-geo-john-fowler.jpg
@@ -52,3 +47,6 @@ Then sun was shining and the sky was very nice. Lot's of new blooms on the plant
 ### Azalea
 
 The azalea bushes in the back yard are blooming. Brilliant white and so nice to look at.
+
+***Check out my Dirt Road Blog***
+https://www.dirtroadblog.com/
