@@ -1,7 +1,7 @@
 ---
 title: School Group Photo
 excerpt: >-  
-We are much older now and still loving life.
+  We are much older now and still loving life.
 date: '2021-04-10'
 thumb_image: images/joe-2cond-grade.JPG
 image: images/joe-2cond-grade.JPG
