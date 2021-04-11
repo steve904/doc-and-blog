@@ -7,7 +7,7 @@ thumb_image: images/joe-2cond-grade.JPG
 image: images/joe-2cond-grade.JPG
 seo:
   title: School Group Photo
-  description: 'Sleep anywhere you like...even dog bowls'
+  description: 'These happy faces are seniors now'
   extra:
     - name: 'og:type'
       value: article
@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: School Group PhotoSchool Group Photo
+      value: School Group Photo
     - name: 'twitter:description'
       value: 'School Group Photo'
     - name: 'twitter:image'
