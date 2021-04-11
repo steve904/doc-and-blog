@@ -46,7 +46,7 @@ LuLu is a real cutie-pie. So loving and just like any other cat...independent.
 
 ---
 
-![Joe-2cond-grade](/images/joe-2cond-grade.JPG)
+![lulu](/images/lulu-dog-bowl.JPG)
 
 <sm>*photo by Stephen H Causey*</sm>
 
