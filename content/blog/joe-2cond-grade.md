@@ -16,7 +16,7 @@ seo:
       value: School Group Photo
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 'School Group Photo'
       keyName: property
     - name: 'og:image'
       value: School Group Photo
@@ -25,9 +25,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: New Conference
+      value: School Group PhotoSchool Group Photo
     - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 'School Group Photo'
     - name: 'twitter:image'
       value: School Group Photo
       relativeUrl: true
