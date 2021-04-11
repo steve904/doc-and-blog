@@ -1,7 +1,6 @@
 ---
 title: State Fair
-excerpt: >-  
-  What will happen with the State Fairs?
+excerpt: What will happen with the State Fairs?
 date: '2021-04-10'
 thumb_image: images/fair-ride.JPG
 image: images/fair-ride.JPG
@@ -16,7 +15,7 @@ seo:
       value: State Fair
       keyName: property
     - name: 'og:description'
-      value: 'State Fair'
+      value: State Fair
       keyName: property
     - name: 'og:image'
       value: State Fair
@@ -27,13 +26,12 @@ seo:
     - name: 'twitter:title'
       value: State Fair
     - name: 'twitter:description'
-      value: 'State Fair'
+      value: State Fair
     - name: 'twitter:image'
       value: State Fair
       relativeUrl: true
 layout: post
 ---
-
 ### The State Fair - So Much Fun
 
 Will the State Fair be a thing of the past or will it somehow survive through the murky waters of shut-downs, virus and fear?
@@ -49,17 +47,19 @@ Here's how Ohio is handling the State Fair.
 Ohio will only allow events for livestock competitions and educational competitions.
 
 This year's (Ohio) fair will open only to:
-* exhibitors
-* their families and guests
-* Ohio State Fair start on July 19
-* Not sure of the duration
----
+
+*   exhibitors
+*   their families and guests
+*   Ohio State Fair start on July 19
+*   Not sure of the duration
+
+***
+
 ### Only Time Will Tell
 
 Watch how each state handles working with the fair. Lots of new methods to open the fairgrounds will be discovered and implemented.
 
 Good luck! Looking forward to seeing the big fairs again.
-
 
 ![state-fair](/images/fair-ride.JPG)
 
@@ -72,4 +72,4 @@ Hi, I'm Stephen Causey...
 ***Check out my Dirt Road Blog***
 https://www.dirtroadblog.com/
 
-A great day to you!
+A great day to you!  ---
