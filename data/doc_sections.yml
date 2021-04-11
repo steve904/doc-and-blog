@@ -2,6 +2,5 @@ root_docs_path: /docs
 sections:
   - about
   - notes-ideas
-  - index-test
   - faq
   #- community
