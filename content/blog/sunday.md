@@ -18,4 +18,4 @@ Got a chance to enjoy the wide open spaces today. Little time in the country alw
 
 ### Kite Flying
 
-I could not keep the kite in the air because the wind was so inconsistent. Tried a few times without a lot of effort. I was having more fun watch my children play hide and seek in the wheat field. They loved it. 
+I could not keep the kite in the air because the wind was so inconsistent. Tried a few times without too much luck. I was having more fun watching my children play hide and seek in the wheat field. They loved it.
