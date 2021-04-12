@@ -6,7 +6,8 @@ sections:
     title: Doc and Blog
     image: images/5.jpg
     content: >-
-      Welcome to Doc and Blog. Keeping the documents and the blogs at the same place.
+      Welcome to Doc and Blog. Keeping the documents and the blogs at the same
+      place.
     actions:
       - label: Get Started
         url: /docs
@@ -32,16 +33,14 @@ sections:
           - label: View Posts
             url: /blog
             style: link
-
   - section_id: text-img
     type: section_content
     image: images/jamstack.svg
     image_position: left
     title: A Section With An Image
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Yes, a section with an image. You can use this in this site. Check how it
+      works in the markdown pages.
     actions:
       - label: View Demo
         url: /docs/getting-started
