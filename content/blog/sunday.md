@@ -3,7 +3,7 @@ title: Sunday
 subtitle: Sunny April Day
 date: '2021-04-12'
 thumb_image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Fresh Air...Ahhh, So Good!
 seo:
   title: Sunday
   description: Sunny Day
