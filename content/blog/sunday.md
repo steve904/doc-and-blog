@@ -15,7 +15,6 @@ layout: post
 
 ## Hide and seek
 
-https://www.facebook.com/100000158962132/videos/4603262923022294/
 
 The kids really enjoyed their short time of hide and seek.
 
