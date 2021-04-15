@@ -2,7 +2,7 @@
 title: Sunday
 subtitle: Sunny April Day
 date: '2021-04-11'
-image: /videos/2499.m4v
+image: videos/2499.m4v
 thumb_image_alt: lorem-ipsum
 excerpt: Fresh Air...Ahhh, So Good!
 seo:
