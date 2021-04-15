@@ -2,7 +2,6 @@
 title: Sunday
 subtitle: Sunny April Day
 date: '2021-04-11'
-video: videos/2499.m4v
 thumb_image_alt: lorem-ipsum
 excerpt: Fresh Air...Ahhh, So Good!
 seo:
@@ -16,10 +15,7 @@ layout: post
 
 ## Hide and seek
 
-<video width="640" height="480 controls>"
-  <source src="/video/2499.m4v" type="video/m4v"
-Your browser does not support the video tag.
-</video> 
+![hide-seek](/static/video/2499.m4v)
 
 The kids really enjoyed their short time of hide and seek.
 
