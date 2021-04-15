@@ -16,7 +16,7 @@ layout: post
 
 ## Hide and seek
 
-https://doc-and-blog.com/videos/2499.m4v
+![hide-seek](https://doc-and-blog.com/videos/2499.m4v)
 
 The kids really enjoyed their short time of hide and seek.
 
