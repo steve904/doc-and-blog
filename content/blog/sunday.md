@@ -3,7 +3,7 @@ title: Sunday
 subtitle: Sunny April Day
 date: '2021-04-11'
 thumb_image_alt: lorem-ipsum
-excerpt: Fresh Air...Ahhh, So Good!
+excerpt: 'Fresh Air...Ahhh, So Good!'
 seo:
   title: Sunday
   description: Sunny Day
@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: images/super-oregano.jpg
 ---
 
 ## Hide and seek
