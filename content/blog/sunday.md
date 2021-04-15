@@ -16,8 +16,6 @@ layout: post
 
 ## Hide and seek
 
-![hide-seek](https://doc-and-blog.com/videos/2499.m4v)
-
 The kids really enjoyed their short time of hide and seek.
 
 We were fun in the wheat field. Got a chance to enjoy the wide open spaces today. Little time in the country always feels so good. The wind blowing through the wheat field was more than awesome to feel and also see the wheat dancing.
