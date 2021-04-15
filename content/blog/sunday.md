@@ -15,7 +15,8 @@ layout: post
 
 ## Hide and seek
 
-![hide-seek](/videos/2499.m4v)
+{{< video src="videos/2499.m4v" >}}
+
 
 The kids really enjoyed their short time of hide and seek.
 
