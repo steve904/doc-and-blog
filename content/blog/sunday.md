@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+image: images/super-oregano.jpg
 thumb_image: images/super-oregano.jpg
 ---
 ## Hide and seek
