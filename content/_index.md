@@ -3,18 +3,18 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section
+    title: Doc and Blog
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Welcome to Doc and Blog. Keeping the documents and the blogs at the same
+      place.
     actions:
       - label: Get Started
         url: /docs
         style: primary
   - section_id: features
     type: section_grid
-    col_number: three
+    col_number: two
     grid_items:
       - title: Documentation
         content: >-
@@ -33,24 +33,14 @@ sections:
           - label: View Posts
             url: /blog
             style: link
-      - title: Style Guide
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
   - section_id: text-img
     type: section_content
     image: images/jamstack.svg
     image_position: left
     title: A Section With An Image
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Yes, a section with an image. You can use this in this site. Check how it
+      works in the markdown pages.
     actions:
       - label: View Demo
         url: /docs/getting-started
@@ -72,7 +62,7 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Sample Layouts
-    subtitle: An optional subtitle of the section
+    subtitle: Some very nice layouts
     col_number: two
     grid_items:
       - title: Overview
@@ -95,8 +85,8 @@ sections:
             style: link
   - section_id: cta
     type: section_cta
-    title: The Title of The Call to Action Block
-    subtitle: This is an optional description for the call to action block.
+    title: Doc and Blog
+    subtitle: Where it happens in one place...Doc and Blog
     actions:
       - label: Get Started
         url: /docs/getting-started/installation

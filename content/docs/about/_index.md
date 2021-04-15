@@ -1,8 +1,7 @@
 ---
 title: About
 excerpt: >-
-  Libris is a Unibit theme created for project documentations. You can use it
-  for your project.
+  Hi! I'm Stephen Causey and I love tinkering with blogs and documentation.
 seo:
   title: About
   description: This is the about page
@@ -25,8 +24,7 @@ seo:
 layout: docs
 ---
 
-Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
-
+This site was born on Thursday 04/08/2021. Brand new and squeaky clean.
 ***
 
 Here are the articles in this section:
