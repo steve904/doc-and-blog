@@ -20,4 +20,4 @@ thumb_image: images/super-oregano.jpg
 
 The kids really enjoyed their game of hide and seek.
 
-We had fun in the wheat field. Got a chance to enjoy the wide open spaces today. Little time in the country always feels so good. The wind blowing through the wheat field was more than awesome to feel and also see the wheat dancing.
+We had fun in the wheat field. Got a chance to enjoy the wide open spaces today. Little time in the country always feels so good. The wind blowing through the wheat field was more than awesome to feel and also got to see the wheat dancing and swaying.
