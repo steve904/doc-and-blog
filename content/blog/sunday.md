@@ -16,7 +16,7 @@ thumb_image: images/super-oregano.jpg
 ---
 ## Hide and seek
 
-
+{{< youtube VCpI-k3VGFs >}}
 
 The kids really enjoyed their short time of hide and seek.
 
