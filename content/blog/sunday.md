@@ -18,7 +18,7 @@ thumb_image: images/super-oregano.jpg
 
 {{< youtube VCpI-k3VGFs >}}
 
-The kids really enjoyed their short time of hide and seek.
+The kids really enjoyed their game of hide and seek.
 
 We had fun in the wheat field. Got a chance to enjoy the wide open spaces today. Little time in the country always feels so good. The wind blowing through the wheat field was more than awesome to feel and also see the wheat dancing.
 
