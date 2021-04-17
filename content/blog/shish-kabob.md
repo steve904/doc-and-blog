@@ -39,4 +39,6 @@ I saw something else that looked very good, "Grilled Skewered Red Potatoes". The
 
 ![](/images/prasad-sn-WECCM_EZnbw-unsplash.jpg)
 
+<sm> *Photo by Prasad SN on Unsplash* </sm>
+
 Gotta have some grilled corn to go with this. Wish me luck finding some fresh corn. I may have to buy some frozen ears & grill them.
