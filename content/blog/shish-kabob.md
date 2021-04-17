@@ -44,11 +44,13 @@ I saw something else that looked very good, "Grilled Skewered Red Potatoes". The
 
 Gotta have some grilled corn to go with this. Wish me luck finding some fresh corn. I may have to buy some frozen ears & grill them.
 
-##*Update*
+---
+
+## *Update*
 
 I decided not to put the pineapple & cherry tomatoes on the skewers. I cooked them in a frying pan with butter and added them to the meal later.
 
-We did not have corn or potatoes. Changed my mind and did not fix these. We had Knorr rice & pasta blend with mushroom flavored sauce. Also...Texas toast. 
+We did not have corn or potatoes. Changed my mind and did not fix these. We had Knorr rice & pasta blend with mushroom flavored sauce. Also...Texas toast.
 
 Everything was very tasty. The buttered pineapple was sooooo good.
 
