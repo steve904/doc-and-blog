@@ -1,0 +1,37 @@
+---
+title: Herbie's
+subtitle: Breakfast Time
+date: '2021-04-16'
+thumb_image_alt: breakfast
+excerpt: Breakfast Time
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
+layout: post
+thumb_image: images/charisse-kenion-w4VtT8jQL6A-unsplash.jpg
+image: images/great-giraffe.jpg
+---
+## Friday Breakfast
+
+Enjoyed going to Herbie's on Battleground in Greensboro, N.C. this morning. The people are always so nice there. Great breakfast and very fulfilling to go back for the second time in two weeks after more than a year of staying away from eating out because of the crazy virus.
+
+![](/images/marvelous-zebra.jpg)
+
+## Haircut
+
+I had to do it. The hair was getting wild and hard to keep in control. I went to the barbershop "Iron and Cloth" and got my hair cut pretty short. Love that barber shop.
+
+![](/images/apothecary-87-Wg3J83R1YSQ-unsplash.jpg)
+
+## Werlitzer Jukebox
+
+Iron and Cloth barbershop got a vintage jukebox a couple of weeks ago that is in perfect condition. It is loaded with old 45 records that you can just walk up to the jukebox and play with no money required. The sound was excellent. Enjoyed listening to the music while getting my hair cut.
+
+![](/images/patrick-fore-cPDH2ChdBps-unsplash.jpg)
+
+> Finding a good barber is like finding a good lawyer - you gotta go to the same guy.
+> \- Ronny Chieng
+>
