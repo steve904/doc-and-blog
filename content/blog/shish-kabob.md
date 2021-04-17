@@ -12,9 +12,12 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+## Shish Kabob
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+![](/images/evan-wise-D99y38Na5Xo-unsplash.jpg)
 
-- Lorem ipsum
-- dolor sit amet
+Time for some good ole' shish kabob. This afternoon I will strike up the grill, grab a bottle of beer and have some fun. But first we have to go to the store. Gotta make a list of the goodies that we will need. 
+
+*   Steak
+*   *   Pineapple*   Mushrooms*   Squash*   Zuccini*   Shrimp (maybe)*   Marinade
+
