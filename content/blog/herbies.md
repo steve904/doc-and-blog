@@ -28,7 +28,7 @@ I had to do it. The hair was getting wild and hard to keep in control. I went to
 
 ## Werlitzer Jukebox
 
-Iron and Cloth barbershop got a vintage jukebox a couple of weeks ago that is in perfect condition. It is loaded with old 45 records that you can just walk up to the jukebox and play with no money required. The sound was excellent. Enjoyed listening to the music while getting my hair cut.
+Iron and Cloth barbershop located in downtown Greensboro, N.C. got a vintage jukebox a couple of weeks ago that is in perfect condition. It is loaded with old 45 records that you can just walk up to the jukebox and play with no money required. The sound was excellent. Enjoyed listening to the music while getting my hair cut.
 
 ![](/images/patrick-fore-cPDH2ChdBps-unsplash.jpg)
 
