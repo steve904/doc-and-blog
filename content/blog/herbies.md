@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: images/charisse-kenion-w4VtT8jQL6A-unsplash.jpg
+image: images/great-giraffe.jpg
 ---
 ## Friday Breakfast
 
