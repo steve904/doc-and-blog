@@ -22,7 +22,6 @@ image: images/ultra-yam.jpg
 
 Time for some good ole' shish kabob. This afternoon I will strike up the grill, grab a bottle of beer and have some fun. But first we have to go to the store. Gotta make a list of the goodies that we will need.
 
-
 *   Steak
 *   Chicken
 *   Peppers (Green & Red)
@@ -38,4 +37,6 @@ I saw something else that looked very good, "Grilled Skewered Red Potatoes". The
 
 ## Grilled Corn
 
-Gotta have some grilled corn to go with this. Wish me luck finding some fresh corn. I may have to buy some frozen ears & grill them.  
+![](/images/prasad-sn-WECCM_EZnbw-unsplash.jpg)
+
+Gotta have some grilled corn to go with this. Wish me luck finding some fresh corn. I may have to buy some frozen ears & grill them.
