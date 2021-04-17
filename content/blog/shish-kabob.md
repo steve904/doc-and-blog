@@ -31,3 +31,11 @@ Time for some good ole' shish kabob. This afternoon I will strike up the grill, 
 *   Pineapple
 *   Mushrooms
 *   Marinade
+
+## Red Potatoes With Herbs
+
+I saw something else that looked very good, "Grilled Skewered Red Potatoes". There is some fresh Rosemary beside the house. Have to see what other dried herbs are in the cabinet. If I find some nice, small red potatoes I will fix these also.
+
+## Grilled Corn
+
+Gotta have some grilled corn to go with this. Wish me luck finding some fresh corn. I may have to buy some frozen ears & grill them.  
