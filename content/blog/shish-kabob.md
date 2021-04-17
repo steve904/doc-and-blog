@@ -54,8 +54,8 @@ We did not have corn or potatoes. Changed my mind and did not fix these. We had 
 
 Everything was very tasty. The buttered pineapple was sooooo good.
 
-## More Recipes
+## More Kabob Recipes
 
-[Grilled Shish-Kabob](https://www.food.com/ideas/grilled-shish-kabob-recipes-6260#c-49671)
+[Grilled Kabob Recipes](https://www.food.com/ideas/grilled-shish-kabob-recipes-6260#c-49671)
 
 <sm> *-Stephen H Causey* </sm>
