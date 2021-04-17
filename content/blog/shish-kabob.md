@@ -33,7 +33,7 @@ Time for some good ole' shish kabob. This afternoon I will strike up the grill, 
 
 ## Red Potatoes With Herbs
 
-I saw something else that looked very good, "Grilled Skewered Red Potatoes". There is some fresh Rosemary beside the house. Have to see what other dried herbs are in the cabinet. If I find some nice, small red potatoes I will fix these also.
+I saw something else that looked very good, "Grilled Skewered Red Potatoes". There is some fresh Rosemary beside the house that I can use. Have to see what other dried herbs are in the cabinet. If I find some nice, small red potatoes I will fix these also.
 
 ## Grilled Corn
 
