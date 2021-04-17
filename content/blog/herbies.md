@@ -12,9 +12,15 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+## Friday Breakfast
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Enjoyed going to Herbie's on Battleground in Greensboro, N.C. this morning. The people are always so nice there. Great breakfast and very fulfilling to go back for the second time in two weeks after more than a year of staying away from eating out because of the crazy virus. 
 
-- Lorem ipsum
-- dolor sit amet
+## Haircut
+
+I had to do it. The hair was getting wild and hard to keep in control. I went to the barbershop "Iron and Cloth" and got my hair cut pretty short. Love that barber shop. 
+
+## Werlitzer Jukebox
+
+Iron and Cloth barbershop got a vintage jukebox a couple of weeks ago that is in perfect condition. It is loaded with old 45 records that you can just walk up to the jukebox and play with no money required. The sound was excellent. Enjoyed listening to the music while getting my hair cut. 
+
