@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: images/terrific-zebra.jpg
+image: images/ultra-yam.jpg
 ---
 ## Shish Kabob
 
