@@ -5,8 +5,8 @@ date: '2021-04-16'
 thumb_image_alt: breakfast
 excerpt: Breakfast Time
 seo:
-  title: 'Herbie's Breakfast Time'
-  description: 'Blog-Breakfast-Barber'
+  title: ''
+  description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
