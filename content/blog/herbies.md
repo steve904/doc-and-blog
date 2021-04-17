@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: images/andre-mouton-GBEHjsPQbEQ-unsplash.jpg
 ---
 ## Friday Breakfast
 
