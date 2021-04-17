@@ -1,11 +1,9 @@
-title: Stackbit Libris Theme
+title: Stephen H Causey
 baseURL: /
 params:
   palette: blue
   header:
     title: Doc and Blog
-    #logo_img: images/logo.svg
-    #logo_img_alt: Libris logo
     has_nav: true
     nav_links:
       - label: Home
@@ -20,7 +18,6 @@ params:
         url: /blog
         style: link
         has_subnav: false
-      
   footer:
     content: >-
       &copy; Stackbit. All rights reserved. This Jamstack site was created with
