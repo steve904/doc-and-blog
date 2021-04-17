@@ -29,6 +29,7 @@ Time for some good ole' shish kabob. This afternoon I will strike up the grill, 
 *   Zucchini
 *   Pineapple
 *   Mushrooms
+*   Cherry Tomatoes
 *   Marinade
 
 ## Red Potatoes With Herbs
