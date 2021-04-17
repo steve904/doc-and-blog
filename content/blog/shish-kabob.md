@@ -3,7 +3,7 @@ title: Shish Kabob!
 subtitle: Time for Some Killin' Grillin'
 date: '2021-04-17'
 thumb_image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Time for Some Killin' Grillin'
 seo:
   title: ''
   description: ''
