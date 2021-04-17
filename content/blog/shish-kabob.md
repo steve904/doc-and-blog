@@ -18,6 +18,7 @@ layout: post
 
 Time for some good ole' shish kabob. This afternoon I will strike up the grill, grab a bottle of beer and have some fun. But first we have to go to the store. Gotta make a list of the goodies that we will need.
 
+
 *   Steak
 *   Chicken
 *   Peppers (Green & Red)
@@ -25,7 +26,4 @@ Time for some good ole' shish kabob. This afternoon I will strike up the grill, 
 *   Zucchini
 *   Pineapple
 *   Mushrooms
-*   Marinade 
-
-
-
+*   Marinade
