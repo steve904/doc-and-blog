@@ -46,3 +46,4 @@ Iron and Cloth barbershop located in downtown Greensboro, N.C. got a vintage juk
 > Finding a good barber is like finding a good lawyer - you gotta go to the same guy.
 > \- Ronny Chieng
 
+[Home](/)
