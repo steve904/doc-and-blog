@@ -18,6 +18,8 @@ image: images/great-giraffe.jpg
 
 <!--more-->
 
+[Home](/)
+
 Enjoyed going to Herbie's on Battleground in Greensboro, N.C. this morning. The people are always so nice there. Great breakfast and very fulfilling to go back for the second time in two weeks after more than a year of staying away from eating out because of the crazy virus. <sm>*-Stephen H Causey*</sm>
 
 ![](/images/marvelous-zebra.jpg)
@@ -43,4 +45,5 @@ Iron and Cloth barbershop located in downtown Greensboro, N.C. got a vintage juk
 
 > Finding a good barber is like finding a good lawyer - you gotta go to the same guy.
 > \- Ronny Chieng
->
+
+[Home](/)
