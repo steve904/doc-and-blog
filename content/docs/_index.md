@@ -27,6 +27,6 @@ Enjoy yourself checking out Doc and Blog. This is a steady work in progress so k
 
 I have learned a ton of things already while developing this site. Looking forward to learning more.
 
-##### [Take me to your blog!
+##### [Take me to your blog!]
 
 [Blog](/blog)
