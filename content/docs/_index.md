@@ -29,4 +29,4 @@ I have learned a ton of things already while developing this site. Looking forwa
 
 ##### [Take me to your blog!](/blog)
 
-[Blog](/blog)
+
