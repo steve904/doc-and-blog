@@ -1,7 +1,7 @@
 ---
 title: Blog
 subtitle: Put your blogging shoes on!
-image: images/5.jpg
+image: images/andre-mouton-GBEHjsPQbEQ-unsplash.jpg
 has_more_link: true
 more_link_text: Read more
 seo:
