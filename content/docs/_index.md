@@ -21,11 +21,12 @@ seo:
       value: This is the documentation page
 layout: docs
 ---
-
 Enjoy yourself checking out Doc and Blog. This is a steady work in progress so keep checking back often.
 
 ***
 
 I have learned a ton of things already while developing this site. Looking forward to learning more.
 
-[Blog](/blog)
+## [Take me to your blog!](/blog)
+
+
