@@ -46,7 +46,6 @@ Some ideas for locations:
 ### **For Joe:**
 
 *   Barber Shop - Casey & Chase
-
 *   On top of the school activity bus
 
 *   Look for someone's nice land
