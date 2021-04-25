@@ -14,6 +14,8 @@ layout: post
 ---
 ## Senior Portraits in Spring
 
+
+
 Got a couple of senior portraits that I need to take care of. One for my son, Joe...an also for a friend of the family...Jessica.
 
 Things they will need:
