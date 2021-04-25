@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: images/johnny-briggs-bDAsR_oawzc-unsplash.jpg
 ---
 ## Senior Portraits in Spring
 
