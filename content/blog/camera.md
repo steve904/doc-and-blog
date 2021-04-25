@@ -56,7 +56,6 @@ Some ideas for locations:
 ### **For Jessica:**
 
 *   Creek, brook with medium size rocks
-
 *   At Jessica's / Crystal's favorite location
 
 *   Open for suggestions
