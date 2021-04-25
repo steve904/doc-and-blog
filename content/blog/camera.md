@@ -29,5 +29,10 @@ Things they will need:
 *   Have fun
 *   Water/bottle
 
----
+## Camera Gear
 
+*   DSLR camera x 2
+
+*   Phone camera
+
+***
