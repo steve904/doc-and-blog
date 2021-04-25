@@ -14,11 +14,16 @@ layout: post
 ---
 ## Senior Portraits in Spring
 
-Got a couple of senior portraits that I need to take care of. One for my son, Joe...an also for a friend of the family...Jessica. 
+Got a couple of senior portraits that I need to take care of. One for my son, Joe...an also for a friend of the family...Jessica.
 
-Some things to do/have for these photo shoots:
+Things they will need:
 
-*   Couple of changes of clothes
+*   Couple of changes of clothes (maybe)
+*   BYOM - Bring your own music
 *   Hair cut/styled
 *   Makeup for Jessica
-*
+*   Comfortable pair of shoes to walk in
+*   Shoes for the shoot when we shoot full length
+*   Have fun
+*   Water/bottle
+
