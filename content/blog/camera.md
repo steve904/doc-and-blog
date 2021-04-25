@@ -16,9 +16,9 @@ layout: post
 
 ![](/images/sharegrid-N10auyEVst8-unsplash.jpg)
 
-Got a couple of senior portraits that I need to take care of. One for my son, Joe...an also for a friend of the family...Jessica.
+Got a couple of senior portraits that I need to take care of. One for my son, Joe...an also for a friend of the family...Jessica. Got to nail down the day & time to shoot for Jessica. Also have to get a day for Joe. 
 
-Things they will need:
+## Things they will need:
 
 *   Couple of changes of clothes (maybe)
 *   BYOM - Bring your own music
@@ -41,6 +41,9 @@ Things they will need:
 *   Flash - hand held
 *   White reflective board (with silver)
 *   Tripod
+
+## Optional items:
+
 *   Phone app for triggering cameras
 *   PocketWizards
 *   Photo umbrellas (maybe)
