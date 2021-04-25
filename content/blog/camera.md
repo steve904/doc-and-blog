@@ -12,9 +12,13 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+## Senior Portraits in Spring
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Got a couple of senior portraits that I need to take care of. One for my son, Joe...an also for a friend of the family...Jessica. 
 
-- Lorem ipsum
-- dolor sit amet
+Some things to do/have for these photo shoots:
+
+*   Couple of changes of clothes
+*   Hair cut/styled
+*   Makeup for Jessica
+*
