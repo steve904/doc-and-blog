@@ -16,7 +16,7 @@ layout: post
 
 ![](/images/sharegrid-N10auyEVst8-unsplash.jpg)
 
-Got a couple of senior portraits that I need to take care of. One for my son, Joe...an also for a friend of the family...Jessica. Got to nail down the day & time to shoot for Jessica. Also have to get a day for Joe. 
+Got a couple of senior portraits that I need to take care of. One for my son, Joe...an also for a friend of the family...Jessica. Got to nail down the day & time to shoot for Jessica. Also have to get a day for Joe.
 
 ## Things they will need:
 
@@ -29,6 +29,48 @@ Got a couple of senior portraits that I need to take care of. One for my son, Jo
 *   Have fun
 *   Water/bottle
 *   Snacks
+
+## Locations for Shooting
+
+*   Hawaii
+
+*   Rome
+
+*   Tuscany
+
+*   Alps
+
+##### WAKE UP!  Where in Greensboro, NC do you want to shoot?
+
+We will truly have to play this one by ear. Not sure of the restrictions because of the big, bad virus. 
+
+Some ideas for locations:
+
+For Joe:
+
+*   Barber Shop - Casey & Chase
+
+*   On top of the school activity bus
+
+*   Look for someone's nice land
+
+*   Lifting weights
+
+*   Wheat field (if possible)
+
+For Jessica:
+
+*   Creek, brook with medium size rocks
+
+*   At Jessica's / Crystal's favorite location
+
+*   Open for suggestions
+
+*   Act like skiing behind Golf Cart (I will explain)
+
+
+
+
 
 ## Camera Gear
 
