@@ -64,6 +64,7 @@ Some ideas for locations:
 
 *   DSLR camera x 2
 *   Extra lens
+*   Cleaning cloth for lens
 *   White balance card(s)
 *   Color balance charts
 *   Phone camera
