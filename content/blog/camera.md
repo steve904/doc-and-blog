@@ -58,7 +58,6 @@ Some ideas for locations:
 *   Creek, brook with medium size rocks
 *   At Jessica's / Crystal's favorite location
 *   Open for suggestions
-
 *   Act like skiing behind Golf Cart (I will explain)
 
 ## Camera Gear
