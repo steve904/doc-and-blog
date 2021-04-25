@@ -34,7 +34,6 @@ Got a couple of senior portraits that I need to take care of. One for my son, Jo
 
 *   Hawaii
 *   Rome
-
 *   Tuscany
 
 *   Alps
