@@ -29,3 +29,5 @@ Things they will need:
 *   Have fun
 *   Water/bottle
 
+---
+
