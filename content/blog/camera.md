@@ -60,6 +60,11 @@ Some ideas for locations:
 *   Open for suggestions
 *   Act like skiing behind Golf Cart (I will explain)
 
+### Crystal - Contact
+
+* FB Messenger
+* Deb's phone
+
 ## Camera Gear
 
 *   DSLR camera x 2
