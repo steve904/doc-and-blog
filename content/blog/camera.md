@@ -31,6 +31,7 @@ Stephen Causey here and I've got a couple of senior portraits to take. One for m
 *   Have fun
 *   Water/bottle
 *   Snacks
+
 ## Locations for Shooting
 
 *   Hawaii
