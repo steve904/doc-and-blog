@@ -2,7 +2,7 @@
 title: "Lights, Action,\_ Camera!"
 subtitle: Time For Senior Photos
 date: '2021-04-25'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: lens
 excerpt: Time for Senior Photos
 seo:
   title: ''
@@ -84,5 +84,16 @@ Some ideas for locations:
 *   PocketWizards
 *   Photo umbrellas (maybe)
 *   White towel (set equipment on)
+
+### Photo Credits
+
+For the nice, old camera with large bulb...
+**Johnny Briggs-Unsplash**
+
+For the beautiful, black lens...
+**Sharegrid-Unsplash**
+
+
+
 
 ***
