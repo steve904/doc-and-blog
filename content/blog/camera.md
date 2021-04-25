@@ -32,7 +32,6 @@ Things they will need:
 ## Camera Gear
 
 *   DSLR camera x 2
-
 *   Phone camera
 
 ***
