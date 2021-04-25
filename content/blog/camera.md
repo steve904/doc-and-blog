@@ -33,6 +33,8 @@ Things they will need:
 
 *   DSLR camera x 2
 *   Extra lens
+*   White balance card(s)
+*   Color balance charts
 *   Phone camera
 *   Memory cards - empty cards
 *   Flash - hand held
