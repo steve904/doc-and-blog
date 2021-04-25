@@ -1,5 +1,5 @@
 ---
-title: ', Lightion, Camera'
+title: "Lights, Action,\_ Camera!"
 subtitle: Time For Senior Photos
 date: '2021-04-25'
 thumb_image_alt: lorem-ipsum
