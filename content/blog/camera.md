@@ -14,7 +14,7 @@ layout: post
 ---
 ## Senior Portraits in Spring
 
-
+![](/images/sharegrid-N10auyEVst8-unsplash.jpg)
 
 Got a couple of senior portraits that I need to take care of. One for my son, Joe...an also for a friend of the family...Jessica.
 
@@ -28,4 +28,3 @@ Things they will need:
 *   Shoes for the shoot when we shoot full length
 *   Have fun
 *   Water/bottle
-
