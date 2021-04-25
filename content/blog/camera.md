@@ -42,11 +42,11 @@ Got a couple of senior portraits that I need to take care of. One for my son, Jo
 
 ##### WAKE UP!  Where in Greensboro, NC do you want to shoot?
 
-We will truly have to play this one by ear. Not sure of the restrictions because of the big, bad virus. 
+We will truly have to play this one by ear. Not sure of the restrictions because of the big, bad virus.
 
 Some ideas for locations:
 
-For Joe:
+### **For Joe:**
 
 *   Barber Shop - Casey & Chase
 
@@ -58,7 +58,7 @@ For Joe:
 
 *   Wheat field (if possible)
 
-For Jessica:
+### **For Jessica:**
 
 *   Creek, brook with medium size rocks
 
@@ -67,10 +67,6 @@ For Jessica:
 *   Open for suggestions
 
 *   Act like skiing behind Golf Cart (I will explain)
-
-
-
-
 
 ## Camera Gear
 
