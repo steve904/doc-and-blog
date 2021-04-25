@@ -33,7 +33,6 @@ Got a couple of senior portraits that I need to take care of. One for my son, Jo
 ## Locations for Shooting
 
 *   Hawaii
-
 *   Rome
 
 *   Tuscany
