@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Action, Lights, Camaer'
 subtitle: lorem-ipsum
 date: '2021-04-25'
 thumb_image_alt: lorem-ipsum
