@@ -32,6 +32,15 @@ Things they will need:
 ## Camera Gear
 
 *   DSLR camera x 2
+*   Extra lens
 *   Phone camera
+*   Memory cards - empty cards
+*   Flash - hand held
+*   White reflective board (with silver)
+*   Tripod
+*   Phone app for triggering cameras
+*   PocketWizards
+*   Photo umbrellas (maybe)
+*   White towel (set equipment on)
 
 ***
