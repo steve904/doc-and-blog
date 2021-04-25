@@ -28,6 +28,7 @@ Things they will need:
 *   Shoes for the shoot when we shoot full length
 *   Have fun
 *   Water/bottle
+*   Snacks
 
 ## Camera Gear
 
