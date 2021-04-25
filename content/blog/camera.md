@@ -48,7 +48,6 @@ Some ideas for locations:
 *   Barber Shop - Casey & Chase
 *   On top of the school activity bus
 *   Look for someone's nice land
-
 *   Lifting weights
 
 *   Wheat field (if possible)
