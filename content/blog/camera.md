@@ -1,6 +1,6 @@
 ---
 title: 'Action, Lights, Camera'
-subtitle: lorem-ipsum
+subtitle: Time For Senior Photos
 date: '2021-04-25'
 thumb_image_alt: lorem-ipsum
 excerpt: lorem-ipsum
