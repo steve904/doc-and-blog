@@ -39,7 +39,7 @@ Stephen Causey here and I've got a couple of senior portraits to take. One for m
 *   Tuscany
 *   Alps
 
-##### WAKE UP!  Where in Greensboro, NC do you want to shoot?
+##### WAKE UP STEVE!  Where in Greensboro, NC do you want to shoot?
 
 We will truly have to play this one by ear. Not sure of the restrictions because of the big, bad virus.
 
