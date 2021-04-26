@@ -4,23 +4,6 @@ subtitle: Time For Senior Photos
 date: '2021-04-25'
 thumb_image_alt: lens
 excerpt: Time for Senior Photos
-sections:
-  - section_id: hero
-    type: section_hero
-    title: Overview
-    image: images/5.jpg
-    content: Easy Grid View of Docs
-  - section_id: docs-overview
-    type: section_docs
-    col_number: three
-  - section_id: cta
-    type: section_cta
-    title: The Title of The Call to Action Block
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started
-        style: primary
 seo:
   title: ''
   description: ''
@@ -119,14 +102,7 @@ For the nice, old camera with large bulb...
 For the beautiful, black lens...
 **Sharegrid-Unsplash**
 
-- section_id: cta
-    type: section_cta
-    title: Doc and Blog
-    subtitle: Where it happens in one place...Doc and Blog
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
+
 
 
 
