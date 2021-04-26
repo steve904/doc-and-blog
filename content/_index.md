@@ -12,7 +12,7 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
-      - label: Let's GKo
+      - label: 'Let''s '
         url: '#'
         style: link
         icon_class: dev
