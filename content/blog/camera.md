@@ -18,7 +18,7 @@ image: images/famous-elm.jpg
 
 ![](/images/sharegrid-N10auyEVst8-unsplash.jpg)
 
-Stephen Causey here and I've got a couple of senior portraits to take. One for my son, Joe...an also for a friend of the family...Jessica. Got to nail down the day & time to shoot for Jessica. Also have to get a day for Joe.
+Stephen Causey here and I've got a couple of senior portraits to take. One for my son, Joe...and also for Crystal's daughter...Jessica. Got to nail down the day & time to shoot for Jessica. Also have to get a day for Joe.
 
 ## Things they will need:
 
