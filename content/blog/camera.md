@@ -18,7 +18,7 @@ image: images/famous-elm.jpg
 
 ![](/images/sharegrid-N10auyEVst8-unsplash.jpg)
 
-Photo by: Sharegrid at Unsplash.com
+*Photo by: Sharegrid at Unsplash.com*
 
 <div class="note">
                 <strong>Hello Everyone:</strong>
