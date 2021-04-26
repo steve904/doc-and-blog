@@ -17,7 +17,7 @@ image: images/famous-elm.jpg
 ## Senior Portraits in Spring
 
 ![](/images/sharegrid-N10auyEVst8-unsplash.jpg)
-***  <sm>Photo by: Sharegrid at Unsplash.com</sm> ***
+*** <sm>Photo by: Sharegrid at Unsplash.com</sm> ***
 
 <div class="note">
                 <strong>Hello Everyone:</strong>
