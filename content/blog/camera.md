@@ -18,7 +18,9 @@ image: images/famous-elm.jpg
 
 ![](/images/sharegrid-N10auyEVst8-unsplash.jpg)
 
+{{< lead >}}
 Stephen Causey here and I've got a couple of senior portraits to take. One for my son, Joe...and also for Crystal's daughter...Jessica. Got to nail down the day & time to shoot for Jessica. Also have to get a day for Joe.
+{{< /lead >}}
 
 ## Things they will need:
 
@@ -53,10 +55,14 @@ Some ideas for locations:
 *   Open for suggestions
 *   Act like skiing behind Golf Cart (I will explain)
 
+---
+
 ## Update for Jessica & Location
 
 We are set to go for Jessica's photo shoot. Not going to say where, but it is a very nice place.
 Counting on the location not having any restrictions.
+
+---
 
 ### Crystal - Contact
 * FB Messenger
