@@ -102,6 +102,14 @@ For the nice, old camera with large bulb...
 For the beautiful, black lens...
 **Sharegrid-Unsplash**
 
+- section_id: cta
+    type: section_cta
+    title: Doc and Blog
+    subtitle: Where it happens in one place...Doc and Blog
+    actions:
+      - label: Get Started
+        url: /docs/getting-started/installation
+        style: primary
 
 
 
