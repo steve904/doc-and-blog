@@ -18,9 +18,13 @@ image: images/famous-elm.jpg
 
 ![](/images/sharegrid-N10auyEVst8-unsplash.jpg)
 
-{{< lead >}}
+
 Stephen Causey here and I've got a couple of senior portraits to take. One for my son, Joe...and also for Crystal's daughter...Jessica. Got to nail down the day & time to shoot for Jessica. Also have to get a day for Joe.
-{{< /lead >}}
+
+{% note primary %}
+#### Primary Header
+**Welcome** to [Hexo!](https://hexo.io)
+{% endnote %}
 
 ## Things they will need:
 
