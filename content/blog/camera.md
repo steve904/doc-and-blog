@@ -34,13 +34,6 @@ Stephen Causey here and I've got a couple of senior portraits to take. One for m
 
 ## Locations for Shooting
 
-*   Hawaii
-*   Rome
-*   Tuscany
-*   Alps
-
-##### WAKE UP STEVE!  Where in Greensboro, NC do you want to shoot?
-
 We will truly have to play this one by ear. Not sure of the restrictions because of the big, bad virus.
 
 Some ideas for locations:
@@ -59,6 +52,11 @@ Some ideas for locations:
 *   At Jessica's / Crystal's favorite location
 *   Open for suggestions
 *   Act like skiing behind Golf Cart (I will explain)
+
+## Update for Jessica & Location
+
+We are set to go for Jessica's photo shoot. Not going to say where, but it is a very nice place.
+Counting on the location not having any restrictions.
 
 ### Crystal - Contact
 
