@@ -19,12 +19,24 @@ image: images/famous-elm.jpg
 ![](/images/sharegrid-N10auyEVst8-unsplash.jpg)
 
 
+
+<button type="button" class="btn btn-primary">Photo Image by: Sharegrid at Unsplash.com</button>
+
+
+<div class="note">
+                <strong>Hello Everyone:</strong>
+                Stephen Causey here and I've got a couple of senior portraits to take. One for my son, Joe...and also for Crystal's daughter...Jessica. The date, place and time for Jessica's shoot has been established. Come on Joe...you have to catch up!
+              </div>
+              <div class="important">
+                <strong>Important:</strong>
+                Check back often for updates.
+              </div>
+            </div>
+
+
 Stephen Causey here and I've got a couple of senior portraits to take. One for my son, Joe...and also for Crystal's daughter...Jessica. Got to nail down the day & time to shoot for Jessica. Also have to get a day for Joe.
 
-{% note primary %}
-#### Primary Header
-**Welcome** to [Hexo!](https://hexo.io)
-{% endnote %}
+
 
 ## Things they will need:
 
