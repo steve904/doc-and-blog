@@ -59,12 +59,10 @@ We are set to go for Jessica's photo shoot. Not going to say where, but it is a 
 Counting on the location not having any restrictions.
 
 ### Crystal - Contact
-
 * FB Messenger
 * Deb's phone
 
 ## Camera Gear
-
 *   DSLR camera x 2
 *   Extra lens
 *   Cleaning cloth for lens
@@ -77,14 +75,12 @@ Counting on the location not having any restrictions.
 *   Tripod
 
 ## Optional items:
-
 *   Phone app for triggering cameras
 *   PocketWizards
 *   Photo umbrellas (maybe)
 *   White towel (set equipment on)
 
 ### Photo Credits
-
 For the nice, old camera with large bulb...
 **Johnny Briggs-Unsplash**
 
