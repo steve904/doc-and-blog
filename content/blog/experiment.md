@@ -1,6 +1,6 @@
 ---
 title: Experiment
-subtitle: lorem-ipsum
+subtitle: Laboratory Creatures
 date: '2021-04-27'
 thumb_image_alt: lorem-ipsum
 excerpt: lorem-ipsum
