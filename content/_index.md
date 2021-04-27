@@ -34,8 +34,8 @@ sections:
             style: link
       - title: Blog
         content: >
-          This is where all the blog posts are. Just click on the button & you
-          will be there. 
+          This is where all the blog posts live. Just click on the button & you
+          will be there.
         actions:
           - label: View Posts
             url: /blog
