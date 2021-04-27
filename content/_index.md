@@ -25,8 +25,8 @@ sections:
     grid_items:
       - title: Documentation
         content: >
-          Documentation or "Docs" are here. **You probably will like the Blog more
-          than the Docs.** The Docs can also be used to archive blog post.
+          Documentation or "Docs" are here. **You probably will like the Blog
+          more than the Docs.** The Docs can also be used to archive blog post.
         actions:
           - label: Docs
             url: /docs
@@ -81,10 +81,8 @@ sections:
             url: /overview
             style: link
       - title: Showcase
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: |
+          Some very nice theme that you can use through Stackbit or Jamstack. 
         actions:
           - label: Learn More
             url: /showcase
