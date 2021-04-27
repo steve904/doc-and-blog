@@ -69,6 +69,7 @@ sections:
           - label: Learn More
             url: /showcase
             style: link
+            
   - section_id: cta
     type: section_cta
     title: Doc and Blog
