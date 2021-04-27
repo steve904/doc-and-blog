@@ -1,6 +1,6 @@
 ---
 title: Speedy Car
-subtitle: Driving Freely Without a Mask 
+subtitle: Driving In  
 date: '2021-04-27'
 thumb_image_alt: lorem-ipsum
 excerpt: lorem-ipsum
