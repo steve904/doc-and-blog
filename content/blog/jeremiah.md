@@ -16,9 +16,13 @@ layout: post
 
 ![](/images/jer-groc-car.png)
 
-## Get Back to Normal 
+## Get Back to Normal
 
-It will be so great to get back to this point in life. I don't know how long it will take to get there but I think everyone is ready for things to revert to the days of freedom and breathing the clean, fresh air. 
+It will be so great to get back to this point in life. I don't know how long it will take to get there but I think everyone is ready for things to revert to the days of freedom and breathing the clean, fresh air.
 
-*   Lorem ipsum
-*   dolor sit amet
+I don't need a grocery list because I know what I am going for. 
+
+*   Juice
+*   Milk
+*   Candy
+*   Pizza
