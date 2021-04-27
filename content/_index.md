@@ -28,7 +28,7 @@ sections:
           Documentation or "Docs" are here. You probably will like the Blog more
           than the Docs. The Docs can also be used to archive blog post.
         actions:
-          - label: Get Started
+          - label: Docs
             url: /docs
             style: link
       - title: Blog
