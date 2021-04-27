@@ -21,5 +21,7 @@ layout: post
 
 It will be so great to get back to this point in life. I don't know how long it will take to get there but I think everyone is ready for things to revert to the days of freedom and breathing the clean, fresh air. 
 
+
+
 *   Lorem ipsum
 *   dolor sit amet
