@@ -17,9 +17,11 @@ layout: post
 ![](/images/jer-groc-car.png)
 *Photo by Stephen H Causey*
 
-## Get Back to Normal 
+## Get Back to Normal
 
-It will be so great to get back to this point in life. I don't know how long it will take to get there but I think everyone is ready for things to revert to the days of freedom and breathing the clean, fresh air. 
+It will be so great to get back to this point in life. I don't know how long it will take to get there but I think everyone is ready for things to revert to the days of freedom and breathing the clean, fresh air.
+
+As for now, I have to go shopping in my fast, nice looking car. Check out my list.
 
 ## My List
 
