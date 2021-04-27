@@ -10,7 +10,7 @@ sections:
     title: Blue Sky
     image: images/5.jpg
     content: >-
-      Welcome to Blue Sky
+      Welcome to Blue Sky. A place where it 
     actions:
       - label: Get Started
         url: /docs
