@@ -19,7 +19,7 @@ layout: post
 
 ## Love My Car
 
-Come on, there's room for one more. Let's go for a spin
+Come on, there's room for one more. Let's go for a spin around the frozen section. 
 
 As for now, I have to go shopping in my fast, nice looking car. Check out my list.
 
