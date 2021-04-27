@@ -1,17 +1,4 @@
----
-title: lorem-ipsum
-subtitle: lorem-ipsum
-date: '2021-04-27'
-thumb_image_alt: lorem-ipsum
-excerpt: lorem-ipsum
-seo:
-  title: ''
-  description: ''
-  robots: []
-  extra: []
-  type: stackbit_page_meta
-layout: post
----
+
 ---
 title: Home
 subtitle: lorem-ipsum
