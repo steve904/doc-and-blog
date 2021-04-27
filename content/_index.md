@@ -26,7 +26,7 @@ sections:
       - title: Documentation
         content: >
           Documentation or "Docs" are here. You probably will like the Blog more
-          than the docs. The docs can also be used to archive blog post.
+          than the Docs. The Docs can also be used to archive blog post.
         actions:
           - label: Get Started
             url: /docs
