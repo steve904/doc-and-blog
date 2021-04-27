@@ -36,7 +36,7 @@ sections:
           This is where all the blog posts live. Just click on the button & you
           will be there.
         actions:
-          - label: View Posts
+          - label: View Blog Posts
             url: /blog
             style: link
   - section_id: text-img
