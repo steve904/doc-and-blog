@@ -49,7 +49,7 @@ sections:
     type: section_grid
     title: ""
     subtitle: ""
-    col_number: three
+    col_number: two
     grid_items:
       - title: Overview
         content: >-
