@@ -2,6 +2,8 @@
 title: Speedy Car
 subtitle: Driving In a Grocery Store
 date: '2021-04-27'
+image: images/jer-groc-car.png
+thumb_image: images/jer-groc-car.png
 thumb_image_alt: Speedy-Car
 excerpt: Let's Go Shopping!
 seo:
