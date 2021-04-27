@@ -1,12 +1,12 @@
 ---
-title: "Lights, Action,\_ Camera!"
+title: "Lights, Action, Camera!"
 subtitle: Time For Senior Photos
 date: '2021-04-25'
 thumb_image_alt: lens
 excerpt: Time for Senior Photos
 seo:
-  title: ''
-  description: ''
+  title: 'Lights, Action, Camera!'
+  description: 'Photography-Senior-Shots'
   robots: []
   extra: []
   type: stackbit_page_meta
