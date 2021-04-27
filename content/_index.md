@@ -24,20 +24,19 @@ sections:
     col_number: two
     grid_items:
       - title: Documentation
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          Documentation or "Docs" are here. **You probably will like the Blog
+          more than the Docs.** The Docs can also be used to archive blog post.
         actions:
-          - label: Get Started
+          - label: Docs
             url: /docs
             style: link
       - title: Blog
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          This is where all the blog posts live. Just click on the button & you
+          will be there.
         actions:
-          - label: View Posts
+          - label: Blog
             url: /blog
             style: link
   - section_id: text-img
@@ -73,19 +72,15 @@ sections:
     col_number: two
     grid_items:
       - title: Overview
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+        content: |
+          Go to the overview page ------->
         actions:
           - label: Learn More
             url: /overview
             style: link
       - title: Showcase
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: |
+          Some very nice theme that you can use through Stackbit or Jamstack. 
         actions:
           - label: Learn More
             url: /showcase
