@@ -7,7 +7,7 @@ excerpt: lorem-ipsum
 sections:
   - section_id: hero
     type: section_hero
-    title: Doc and Blog
+    title: Blue Sky
     image: images/5.jpg
     content: >-
       Welcome to Doc and Blog. Keeping the documents and the blogs at the same
