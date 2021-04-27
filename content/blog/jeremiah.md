@@ -19,7 +19,7 @@ layout: post
 
 ## Love My Car
 
-It will be so great to get back to this point in life. I don't know how long it will take to get there but I think everyone is ready for things to revert to the days of freedom and breathing the clean, fresh air.
+Come on, there's room for one more. Let's go for a spin
 
 As for now, I have to go shopping in my fast, nice looking car. Check out my list.
 
