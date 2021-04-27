@@ -1,6 +1,6 @@
 ---
 title: Speedy Car
-subtitle: Driving Freely Without a Mask - 2017
+subtitle: Driving Freely Without a Mask 
 date: '2021-04-27'
 thumb_image_alt: lorem-ipsum
 excerpt: lorem-ipsum
