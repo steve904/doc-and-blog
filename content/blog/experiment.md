@@ -45,7 +45,7 @@ sections:
             style: link
   
     
-  - section_id: features-two-col
+  - section_id: features-tthree-col
     type: section_grid
     title: ""
     subtitle: ""
