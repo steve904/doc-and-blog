@@ -10,7 +10,7 @@ sections:
     title: Blue Sky
     image: images/5.jpg
     content: >-
-      Welcome to Blue Sky. A place where it 
+      Welcome to Blue Sky. A place where the sky stays blue, even when it rains.
     actions:
       - label: Get Started
         url: /docs
