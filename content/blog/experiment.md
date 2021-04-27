@@ -10,8 +10,7 @@ sections:
     title: Blue Sky
     image: images/5.jpg
     content: >-
-      Welcome to Doc and Blog. Keeping the documents and the blogs at the same
-      place.
+      Welcome to Blue Sky
     actions:
       - label: Get Started
         url: /docs
