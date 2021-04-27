@@ -14,6 +14,10 @@ layout: post
 ---
 ---
 title: Home
+subtitle: lorem-ipsum
+date: '2021-04-27'
+thumb_image_alt: lorem-ipsum
+excerpt: lorem-ipsum
 sections:
   - section_id: hero
     type: section_hero
