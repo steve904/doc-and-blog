@@ -57,10 +57,5 @@ I have seen lots of other photographers canyon shots and they just don't cut the
 
 [Home](/)
 
-actions:
-      - label: View Blog
-        url: blog/index.html
-        style: button
-
 ***Check out my Dirt Road Blog***
 https://www.dirtroadblog.com/
