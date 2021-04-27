@@ -48,7 +48,7 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: ""
-    subtitle: Some very nice layouts
+    subtitle: "
     col_number: two
     grid_items:
       - title: Overview
