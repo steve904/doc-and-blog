@@ -12,9 +12,13 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+## Cruisin' In My Car
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+![](/images/jer-groc-car.png)
 
-- Lorem ipsum
-- dolor sit amet
+## Get Back to Normal 
+
+It will be so great to get back to this point in life. I don't know how long it will take to get there but I think everyone is ready for things to revert to the days of freedom and breathing the clean, fresh air. 
+
+*   Lorem ipsum
+*   dolor sit amet
