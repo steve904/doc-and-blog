@@ -2,7 +2,7 @@
 title: "Lights, Action,\_ Camera!"
 subtitle: Time For Senior Photos
 date: '2021-04-25'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: lens
 excerpt: Time for Senior Photos
 seo:
   title: ''
@@ -18,7 +18,18 @@ image: images/famous-elm.jpg
 
 ![](/images/sharegrid-N10auyEVst8-unsplash.jpg)
 
-Stephen Causey here and I've got a couple of senior portraits to take. One for my son, Joe...an also for a friend of the family...Jessica. Got to nail down the day & time to shoot for Jessica. Also have to get a day for Joe.
+*Photo by: Sharegrid at Unsplash.com*
+
+<div class="note">
+                <strong>Hello Everyone:</strong>
+                Stephen Causey here and I've got a couple of senior portraits to take. One for my son, Joe...and also for Crystal's daughter...Jessica. The date, place and time for Jessica's shoot has been established. Come on Joe...you have to catch up!
+              </div>
+              <div class="important">
+                <strong>Important:</strong>
+                Check back often for updates.
+              </div>
+            </div>
+
 
 ## Things they will need:
 
@@ -33,13 +44,6 @@ Stephen Causey here and I've got a couple of senior portraits to take. One for m
 *   Snacks
 
 ## Locations for Shooting
-
-*   Hawaii
-*   Rome
-*   Tuscany
-*   Alps
-
-##### WAKE UP!  Where in Greensboro, NC do you want to shoot?
 
 We will truly have to play this one by ear. Not sure of the restrictions because of the big, bad virus.
 
@@ -60,8 +64,20 @@ Some ideas for locations:
 *   Open for suggestions
 *   Act like skiing behind Golf Cart (I will explain)
 
-## Camera Gear
+---
 
+## Update for Jessica & Location
+
+We are set to go for Jessica's photo shoot. Not going to say where, but it is a very nice place.
+Counting on the location not having any restrictions.
+
+---
+
+### Crystal - Contact
+* FB Messenger
+* Deb's phone
+
+## Camera Gear
 *   DSLR camera x 2
 *   Extra lens
 *   Cleaning cloth for lens
@@ -74,10 +90,20 @@ Some ideas for locations:
 *   Tripod
 
 ## Optional items:
-
 *   Phone app for triggering cameras
 *   PocketWizards
 *   Photo umbrellas (maybe)
 *   White towel (set equipment on)
+
+### Photo Credits
+For the nice, old camera with large bulb...
+**Johnny Briggs-Unsplash**
+
+For the beautiful, black lens...
+**Sharegrid-Unsplash**
+
+
+
+
 
 ***
