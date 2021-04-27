@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Experiment
 subtitle: lorem-ipsum
 date: '2021-04-27'
 thumb_image_alt: lorem-ipsum
