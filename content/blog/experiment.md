@@ -1,4 +1,3 @@
-
 ---
 title: Home
 subtitle: lorem-ipsum
