@@ -1,6 +1,6 @@
 ---
 title: Herbie's
-subtitle: lorem-ipsum
+subtitle: Breakfast Time
 date: '2021-04-28'
 thumb_image_alt: lorem-ipsum
 excerpt: lorem-ipsum
