@@ -7,8 +7,8 @@ thumb_image: images/jer-groc-car.png
 thumb_image_alt: Speedy-Car
 excerpt: Let's Go Shopping!
 seo:
-  title: ''
-  description: ''
+  title: 'Speedy Car'
+  description: 'Grocery-Car'
   robots: []
   extra: []
   type: stackbit_page_meta
