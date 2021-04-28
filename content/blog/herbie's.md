@@ -2,6 +2,7 @@
 title: Herbie's
 subtitle: Breakfast Time
 date: '2021-04-16'
+image: images/great-giraffe.jpg
 thumb_image_alt: breakfast
 excerpt: Herbie's Breakfast
 seo:
