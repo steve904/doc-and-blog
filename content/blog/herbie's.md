@@ -3,7 +3,7 @@ title: Herbie's
 subtitle: Breakfast Time
 date: '2021-04-16'
 thumb_image_alt: breakfast
-excerpt: Breakfast Time
+excerpt: Herbie's Breakfast
 seo:
   title: ''
   description: ''
@@ -11,8 +11,6 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-thumb_image: images/charisse-kenion-w4VtT8jQL6A-unsplash.jpg
-image: images/great-giraffe.jpg
 ---
 ## Friday Breakfast
 
@@ -47,3 +45,4 @@ Iron and Cloth barbershop located in downtown Greensboro, N.C. got a vintage juk
 > \- Ronny Chieng
 
 [Home](/)
+

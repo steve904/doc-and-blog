@@ -1,12 +1,14 @@
 ---
 title: Speedy Car
-subtitle: Driving In a Grocery Store 
+subtitle: Driving In a Grocery Store
 date: '2021-04-27'
-thumb_image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+image: images/jer-groc-car.png
+thumb_image: images/jer-groc-car.png
+thumb_image_alt: Speedy-Car
+excerpt: Let's Go Shopping!
 seo:
-  title: ''
-  description: ''
+  title: 'Speedy Car'
+  description: 'Grocery-Car'
   robots: []
   extra: []
   type: stackbit_page_meta
@@ -19,7 +21,7 @@ layout: post
 
 ## Love My Car
 
-Come on, there's room for one more. Let's go for a spin around the frozen section. 
+Come on, there's room for one more. Let's go for a spin around the frozen section.
 
 As for now, I have to go shopping in my fast, nice looking car. Check out my list.
 
