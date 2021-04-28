@@ -16,8 +16,6 @@ layout: post
 ---
 ## Friday Breakfast
 
-![](/images/charisse-kenion-w4VtT8jQL6A-unsplash.jpg)
-
 <!--more-->
 
 [Home](/)
