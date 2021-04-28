@@ -3,7 +3,7 @@ title: Herbie's
 subtitle: Breakfast Time
 date: '2021-04-16'
 thumb_image_alt: breakfast
-excerpt: lorem-ipsum
+excerpt: Herbie's Breakfast
 seo:
   title: ''
   description: ''
