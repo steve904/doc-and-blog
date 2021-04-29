@@ -35,4 +35,4 @@ layout: docs
 * Start sharing your site with others.
 * Put together a lot of pictures to use on your site.
 
-
+## [Take me to your blog!](/blog)
