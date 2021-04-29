@@ -34,3 +34,5 @@ layout: docs
 * Write down a blog idea.
 * Start sharing your site with others.
 * Put together a lot of pictures to use on your site.
+
+
