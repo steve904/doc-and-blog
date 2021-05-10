@@ -2,7 +2,7 @@
 title: Jessica - The Page Pirate
 subtitle: The Bog Garden & Page High School
 date: '2021-05-10'
-thumb_image_alt: Page Pirate sigh
+thumb_image_alt: Page Pirate sign
 excerpt: Senior photos for Jessica
 seo:
   title: ''
