@@ -1,6 +1,6 @@
 ---
 title: Jessica - The Page Pirate
-subtitle: lorem-ipsum
+subtitle: The Bog Garden & Page High School
 date: '2021-05-10'
 thumb_image_alt: lorem-ipsum
 excerpt: Senior photos for Jessica
