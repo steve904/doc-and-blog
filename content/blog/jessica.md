@@ -14,9 +14,14 @@ layout: post
 thumb_image: images/pirate_8028-px.jpg
 image: images/important-daffodil.jpg
 ---
-## Lorem ipsum
+## Pirate Beware!
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+![](/images/jes\_8048-800px.jpg)
 
-- Lorem ipsum
-- dolor sit amet
+**Another Page Pirate graduating this year of 2021. Aye...it's been a great ride and now we go onward to another adventure. **
+
+Senior Photo Locations
+
+*   Bog Garden...Greensboro, NC
+*   Page High School...Greensboro, NC
+
