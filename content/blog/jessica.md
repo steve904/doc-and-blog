@@ -3,7 +3,7 @@ title: Jessica - The Page Pirate
 subtitle: lorem-ipsum
 date: '2021-05-10'
 thumb_image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Senior photos for Jessica
 seo:
   title: ''
   description: ''
