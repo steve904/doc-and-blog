@@ -18,7 +18,7 @@ image: images/important-daffodil.jpg
 
 ![](/images/jes\_8048-800px.jpg)
 
-** Another Page Pirate graduating this year of 2021. Aye...it's been a great ride and now we go onward to another adventure. **
+**Another Page Pirate graduating this year of 2021. Aye...it's been a great ride and now we go onward to another adventure.**
 
 Senior Photo Locations
 
