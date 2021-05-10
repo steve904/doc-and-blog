@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: images/pirate_8028-px.jpg
 ---
 ## Lorem ipsum
 
