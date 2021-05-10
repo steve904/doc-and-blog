@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: images/pirate_8028-px.jpg
+image: images/important-daffodil.jpg
 ---
 ## Lorem ipsum
 
