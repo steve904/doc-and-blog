@@ -25,5 +25,4 @@ image: images/important-daffodil.jpg
 *   Bog Garden...Greensboro, NC
 *   Page High School...Greensboro, NC
 
-
-
+![](/images/jes\_8051-800px.jpg)
