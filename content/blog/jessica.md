@@ -20,7 +20,7 @@ image: images/important-daffodil.jpg
 
 **Another Page Pirate graduating this year of 2021. Aye...it's been a great ride and now we go onward to another adventure.**
 
-Senior Photo Locations
+### Senior Photo Locations
 
 *   Bog Garden...Greensboro, NC
 *   Page High School...Greensboro, NC
