@@ -2,6 +2,8 @@
 title: Herbie's
 subtitle: Breakfast Time
 date: '2021-04-16'
+image: images/great-giraffe.jpg
+thumb_image: images/charisse-kenion-w4VtT8jQL6A-unsplash.jpg
 thumb_image_alt: breakfast
 excerpt: Herbie's Breakfast
 seo:
@@ -32,7 +34,6 @@ I had to do it. The hair was getting wild and hard to keep in control. I went to
 
 <sm> *Photo by Apothecary 87 on Unsplash* </sm>
 
-
 ## Werlitzer Jukebox
 
 Iron and Cloth barbershop located in downtown Greensboro, N.C. got a vintage jukebox a couple of weeks ago that is in perfect condition. It is loaded with old 45 records that you can just walk up to the jukebox and play with no money required. The sound was excellent. Enjoyed listening to the music while getting my hair cut.
@@ -45,4 +46,3 @@ Iron and Cloth barbershop located in downtown Greensboro, N.C. got a vintage juk
 > \- Ronny Chieng
 
 [Home](/)
-

@@ -1,7 +1,6 @@
 ---
 title: About
-excerpt: >-
-  Hi! I'm Stephen Causey and I love tinkering with blogs and documentation.
+excerpt: Hi! I'm Stephen Causey and I love tinkering with blogs and documentation.
 seo:
   title: About
   description: This is the about page
@@ -23,8 +22,11 @@ seo:
       value: This is the about page
 layout: docs
 ---
-
 This site was born on Thursday 04/08/2021. Brand new and squeaky clean.
+
 ***
 
-Here are the articles in this section:
+## [Take me to your blog!](/blog)
+
+
+
