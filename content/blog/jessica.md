@@ -14,6 +14,8 @@ layout: post
 thumb_image: images/pirate_8028-px.jpg
 image: images/important-daffodil.jpg
 ---
+
+
 ## Pirate Beware!
 
 <!--more-->
