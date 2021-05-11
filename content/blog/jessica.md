@@ -1,5 +1,5 @@
 ---
-title: Jessica - The Page Pirate
+title: The Page Pirate
 subtitle: Page High School Senior Photos
 date: '2021-05-10'
 thumb_image_alt: Page Pirate sign
