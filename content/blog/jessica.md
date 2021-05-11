@@ -16,6 +16,7 @@ image: images/important-daffodil.jpg
 ---
 ## Pirate Beware!
 
+<!--more-->
 
 [Home](/)
 
