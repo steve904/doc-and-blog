@@ -27,6 +27,6 @@ image: images/important-daffodil.jpg
 
 ![](/images/jes\_8051-800px.jpg)
 
-
-
 ![](/images/jes\_8034-800px.jpg)
+
+![](/images/shc\_8065-800.jpg)
