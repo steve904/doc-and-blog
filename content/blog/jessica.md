@@ -36,3 +36,4 @@ image: images/important-daffodil.jpg
 
 ![](/images/jes\_8061-800px.jpg)
 
+![](/images/neat-paprika.jpg)
