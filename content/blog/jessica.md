@@ -26,3 +26,7 @@ image: images/important-daffodil.jpg
 *   Page High School...Greensboro, NC
 
 ![](/images/jes\_8051-800px.jpg)
+
+
+
+![](/images/jes\_8034-800px.jpg)
