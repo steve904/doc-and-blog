@@ -24,6 +24,7 @@ image: images/important-daffodil.jpg
 
 *   Bog Garden...Greensboro, NC
 *   Page High School...Greensboro, NC
+*   Photographer: Stephen H Causey
 
 ![](/images/jes\_8051-800px.jpg)
 
