@@ -5,8 +5,8 @@ date: '2021-05-10'
 thumb_image_alt: Page Pirate sign
 excerpt: Senior photos for Jessica
 seo:
-  title: ''
-  description: ''
+  title: 'Jessica - The Page Pirate'
+  description: 'Page High School Senior Photos'
   robots: []
   extra: []
   type: stackbit_page_meta
