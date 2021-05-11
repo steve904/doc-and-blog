@@ -36,4 +36,6 @@ image: images/important-daffodil.jpg
 
 ![](/images/jes\_8061-800px.jpg)
 
-![](/images/jes\_8042-800px.jpg) 
+![](/images/jes\_8042-800px.jpg)
+
+### - Jessica - Page High School Graduate
