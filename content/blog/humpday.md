@@ -14,11 +14,14 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
+*Great view image by Keino Ken - Unsplash*
+
 ## A Floor Perhaps
 
 ![](/images/meagan-stone-unsplash.jpg)
+*Megan Stone - Unsplash*
 
-Looking at putting in a hardwood floor. The wood is hickory and it is 5" wide and a variety of lengths.
+Looking at putting in a hardwood floor. The wood is hickory and it is 5" wide and a variety of lengths. (The flooring in the picture is not hickory)
 
 *   Nails for nail gun
 *   Air tank
