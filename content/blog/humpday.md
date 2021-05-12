@@ -3,7 +3,7 @@ title: Humpday
 subtitle: Wednesday is Here
 date: '2021-05-12'
 thumb_image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Flooring Today
 seo:
   title: ''
   description: ''
@@ -28,4 +28,4 @@ Looking at putting in a hardwood floor. The wood is hickory and it is 5" wide an
 
 ## Pictures
 
-If I get a chance I will post some pictures of some of the work being done. No promises. 
+If I get a chance I will post some pictures of some of the work being done. No promises.
