@@ -14,9 +14,12 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-*Great view image by Keino Ken - Unsplash*
+
 
 ## A Floor Perhaps
+
+![](/images/keino-ken-unsplash.jpg)
+*Great view image by Keino Ken - Unsplash*
 
 ![](/images/meagan-stone-unsplash.jpg)
 *Megan Stone - Unsplash*
