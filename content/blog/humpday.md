@@ -1,6 +1,6 @@
 ---
 title: Humpday
-subtitle: lorem-ipsum
+subtitle: Wednesday is Here
 date: '2021-05-12'
 thumb_image_alt: lorem-ipsum
 excerpt: lorem-ipsum
