@@ -26,6 +26,8 @@ layout: post
 
 Looking at putting in a hardwood floor. The wood is hickory and it is 5" wide and a variety of lengths. (The flooring in the picture is not hickory)
 
+## Starting List of Tools
+
 *   Nails for nail gun
 *   Air tank
 *   Black paper or red rosin paper
