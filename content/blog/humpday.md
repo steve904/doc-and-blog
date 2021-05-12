@@ -12,9 +12,16 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+## A Floor Perhaps
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Looking at putting in a hardwood floor. The wood is hickory and it is 5" wide and a variety of lengths. 
 
-- Lorem ipsum
-- dolor sit amet
+*   Nails for nail gun
+*   Air tank
+*   Black paper or red rosin paper
+*   Square 
+*   Straight edge
+*   Tape measure
+*   Broom
+*   Dust pan
+*   Saw with dust vacuum attached
