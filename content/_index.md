@@ -10,7 +10,7 @@ sections:
       - label: Docs
         url: /docs
         style: primary
-      - label: Let's Go!
+      - label: Blog
         url: /blog
         style: link
         icon_class: dev
