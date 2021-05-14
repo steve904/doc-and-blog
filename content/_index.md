@@ -25,7 +25,7 @@ sections:
     grid_items:
       - title: Documentation
         content: |
-          The Docs are here. 
+          *Photo by Thom Milkovik - Unsplash*
         actions:
           - label: Docs
             url: /docs
