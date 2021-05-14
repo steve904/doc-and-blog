@@ -46,7 +46,7 @@ sections:
     title: Doc and Blog
     subtitle: Documentation and Blog
     actions:
-      - label: Get Started
+      - label: Home
         url: /home
         style: primary
 seo:
