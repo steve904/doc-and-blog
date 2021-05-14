@@ -50,9 +50,16 @@ sections:
       - label: View Demo
         url: /docs/getting-started
         style: primary
-      - label: Get Started
+      - label: Docs
         url: /docs/getting-started
         style: secondary
+        actions:
+          - label: View Demo
+            url: /docs/getting-started
+            style: primary
+          - label: Docs
+            url: /blog/cat
+            style: secondary
   - section_id: text-no-img
     type: section_content
     title: A Section Without Image
