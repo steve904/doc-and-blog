@@ -30,6 +30,7 @@ sections:
           - label: Docs
             url: /docs
             style: link
+        image: images/thom-milkovic-FTNGfpYCpGM-unsplash.jpg
       - title: Blog
         content: |
           The Blog is here.
