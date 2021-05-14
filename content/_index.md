@@ -41,11 +41,10 @@ sections:
             style: link
         image: images/rhondak-native-800px.jpg
         title_url: /blog
-
   - section_id: cta
     type: section_cta
     title: Doc and Blog
-    subtitle: Where it happens in one place...Doc and Blog
+    subtitle: Documentation and Blog
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
