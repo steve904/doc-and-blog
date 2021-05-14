@@ -31,6 +31,7 @@ sections:
             url: /docs
             style: link
         image: images/thom-milkovic-800opx.jpg
+        title_url: /docs
       - title: Blog
         content: |
           The Blog is here.
