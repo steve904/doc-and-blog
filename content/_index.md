@@ -34,7 +34,7 @@ sections:
         title_url: /docs
       - title: Blog
         content: |
-          The Blog is here.
+          Photo by Rhondak (native florida folk artist) - Unsplash
         actions:
           - label: Blog
             url: /blog
