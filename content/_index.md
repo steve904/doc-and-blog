@@ -37,6 +37,7 @@ sections:
           - label: Blog
             url: /blog
             style: link
+        image: images/rhondak-native-florida-folk-artist-_Yc7OtfFn-0-unsplash.jpg
   - section_id: text-img
     type: section_content
     image: images/jamstack.svg
