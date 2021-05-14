@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Docs
         url: /docs
-        style: primary
+        style: secondary
       - label: Blog
         url: /blog
         style: link
