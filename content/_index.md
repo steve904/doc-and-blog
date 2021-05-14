@@ -47,7 +47,7 @@ sections:
     subtitle: Documentation and Blog
     actions:
       - label: Get Started
-        url: /hom
+        url: /home
         style: primary
 seo:
   title: Stackbit Libris Theme
