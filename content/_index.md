@@ -34,7 +34,7 @@ sections:
         title_url: /docs
       - title: Blog
         content: |
-          Photo by Rhondak - Unsplash
+          *Photo by Rhondak - Unsplash*
         actions:
           - label: Blog
             url: /blog
