@@ -31,9 +31,8 @@ sections:
             url: /docs
             style: link
       - title: Blog
-        content: >
-          This is where all the blog posts live. Just click on the button & you
-          will be there.
+        content: |
+          The Blog is here.
         actions:
           - label: Blog
             url: /blog
