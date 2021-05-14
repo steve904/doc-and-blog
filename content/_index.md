@@ -12,7 +12,7 @@ sections:
         style: secondary
       - label: Blog
         url: /blog
-        style: link
+        style: secondary
         icon_class: dev
         new_window: false
         no_follow: false
