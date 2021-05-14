@@ -11,7 +11,7 @@ sections:
         url: /docs
         style: primary
       - label: Let's Go!
-        url: /
+        url: /blog
         style: link
         icon_class: dev
         new_window: false
