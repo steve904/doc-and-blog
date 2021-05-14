@@ -6,7 +6,7 @@ sections:
     title: Doc and Blog
     image: images/5.jpg
     content: |
-      I'm Stephen Causey and welcome to Doc and 
+      I'm Stephen Causey. Welcome to Doc and
       Blog
     actions:
       - label: Docs
