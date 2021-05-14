@@ -55,7 +55,7 @@ sections:
         style: secondary
         actions:
           - label: View Demo
-            url: /docs/getting-started
+            url: /blog/cat
             style: primary
           - label: Docs
             url: /blog/cat
