@@ -47,19 +47,12 @@ sections:
       Yes, a section with an image. You can use this in this site. Check how it
       works in the markdown pages.
     actions:
-      - label: View Demo
-        url: /docs/getting-started
-        style: primary
       - label: Docs
-        url: /docs/getting-started
-        style: secondary
-        actions:
-          - label: View Demo
-            url: /blog/cat
-            style: primary
-          - label: Docs
-            url: /blog/cat
-            style: secondary
+        url: /docs/
+        style: primary
+      - label: Blog
+        url: /blog
+        style: primary
   - section_id: text-no-img
     type: section_content
     title: A Section Without Image
