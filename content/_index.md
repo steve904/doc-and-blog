@@ -40,6 +40,7 @@ sections:
             url: /blog
             style: link
         image: images/rhondak-native-800px.jpg
+        title_url: /blog
   - section_id: text-img
     type: section_content
     image: images/jamstack.svg
