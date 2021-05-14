@@ -5,10 +5,9 @@ sections:
     type: section_hero
     title: Doc and Blog
     image: images/5.jpg
-    content: >-
-      Welcome to Doc and Blog. Stephen Causey here and wherever you are...enjoy!
+    content: Welcome to Doc and Blog. Stephen Causey here and wherever you are...enjoy!
     actions:
-      - label: Get Started
+      - label: Docs
         url: /docs
         style: primary
       - label: Let's Go!
