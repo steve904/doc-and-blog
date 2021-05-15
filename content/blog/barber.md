@@ -42,7 +42,7 @@ These are the barbers doing their magic. The barbers in this picture are Thomas,
 
 ## **Vintage Barber Chairs**
 
-There are four beautiful vintage barber chairs that are very comforatable to sit in. Feels like you are stepping back in time when you sit in one of these.
+There are four beautiful vintage barber chairs that are very comfortable to sit in. Feels like you are stepping back in time when you sit in one of these.
 
 ![](/images/barb-chair-800px.jpg)
 
