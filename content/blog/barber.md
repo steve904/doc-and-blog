@@ -42,10 +42,12 @@ These are the barbers doing their magic. The barbers in this picture are Tom, Ma
 
 ![](/images/barb-chair-800px.jpg)
 
-## Hair and Beard 
+## Hair and Beard
 
-Iron and Cloth sells hair and beard products. They also sell hats, t-shirts and other clothing items. You don't have to get a hair cut to buy these items...just walk in and look around. 
+Iron and Cloth sells hair and beard products. They also sell hats, t-shirts and other clothing items. You don't have to get a hair cut to buy these items...just walk in and look around.
 
-****
+***
 
 ![](/images/spectacular-mango.jpg)
+
+![](/images/inside-out-800px.jpg)
