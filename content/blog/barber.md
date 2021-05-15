@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Iron and Cloth
 subtitle: lorem-ipsum
 date: '2021-05-15'
 thumb_image_alt: lorem-ipsum
