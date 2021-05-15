@@ -30,6 +30,6 @@ layout: docs
   Blog archives are kept here. <strong>Cheers!</strong>
 </div>
 
-* [Humpday-Wednesday](/docs/archive/humpday)
-* [Beautiful Day](/docs/archive/beautiful-day)
-* [Nice Photos - Canyon](/docs/archive/photos-canyon)
+* [Humpday-Wednesday-May 12, 2021](/docs/archive/humpday)
+* [Beautiful Day-April 09, 2021](/docs/archive/beautiful-day)
+* [Nice Photos - Canyon-April 08, 2021](/docs/archive/photos-canyon)
