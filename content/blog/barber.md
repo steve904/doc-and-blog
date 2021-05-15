@@ -32,6 +32,8 @@ Here is the view as you walk through the door. The juke box is over to the right
 
 ![](/images/jere-casey-800px.jpg)
 
+## **Barbers at Work**
 
+These are the barbers doing their magic. The barbers in this picture are Tom, Mary, & Casey. 
 
 ![](/images/iron-cloth\_800px.jpg)
