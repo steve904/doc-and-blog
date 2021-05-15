@@ -1,6 +1,6 @@
 ---
 title: Iron and Cloth
-subtitle: lorem-ipsum
+subtitle: "Barber Shop\_ Downtown Greensboro, NC"
 date: '2021-05-15'
 thumb_image_alt: lorem-ipsum
 excerpt: lorem-ipsum
