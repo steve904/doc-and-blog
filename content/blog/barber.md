@@ -21,3 +21,5 @@ What a great barber shop to go to. The barbers are very friendly and welcoming. 
 *Casey Gaulden - Owner of Iron and Cloth*
 
 ## ***Juke Box***
+
+*The first thing you will probably notice when you walk into Iron and Cloth is the old W*
