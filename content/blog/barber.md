@@ -41,3 +41,5 @@ These are the barbers doing their magic. The barbers in this picture are Tom, Ma
 ## **Vintage Barber Chairs**
 
 ![](/images/barb-chair-800px.jpg)
+
+![](/images/spectacular-mango.jpg)
