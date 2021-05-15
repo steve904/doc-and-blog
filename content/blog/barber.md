@@ -36,7 +36,7 @@ Here is the view as you walk through the door. The juke box is over to the right
 
 ## **Barbers at Work**
 
-These are the barbers doing their magic. The barbers in this picture are Tom, Mary, & Casey. Chase is not there today. A little beach vacation time for Chase and he will be back shortly to join back in.
+These are the barbers doing their magic. The barbers in this picture are Thomas, Mary, & Casey. Chase is not there today. A little beach vacation time for Chase and he will be back shortly to join back in.
 
 ![](/images/iron-cloth\_800px.jpg)
 
