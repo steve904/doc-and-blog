@@ -26,6 +26,12 @@ The first thing you will probably notice when you walk into Iron and Cloth is th
 
 ![](/images/pleasant-moon.jpg)
 
+## **Great Place**
 
+Here is the view as you walk through the door. The juke box is over to the right and the hair products, beard products and t-shirts and hats are next to the juke box. That big fish on the wall, well all I can say about that is "you should have seen the one that got away"!
 
 ![](/images/jere-casey-800px.jpg)
+
+
+
+![](/images/iron-cloth\_800px.jpg)
