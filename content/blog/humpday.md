@@ -18,10 +18,10 @@ layout: post
 
 ## A Floor Perhaps
 
+[Home](/)
+
 ![](/images/keino-ken-unsplash.jpg)
 *Great view image by Keino Ken - Unsplash*
-
-[Home](/)
 
 ![](/images/meagan-stone-unsplash.jpg)
 *Megan Stone - Unsplash*
