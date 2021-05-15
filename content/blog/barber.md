@@ -44,6 +44,8 @@ These are the barbers doing their magic. The barbers in this picture are Tom, Ma
 
 ## Hair and Beard 
 
+Iron and Cloth sells hair and beard products. They also sell hats, t-shirts and other clothing items. You don't have to get a hair cut to buy these items...just walk in and look around. 
+
 ****
 
 ![](/images/spectacular-mango.jpg)
