@@ -27,7 +27,7 @@ layout: docs
 
 <div class="note">
   <strong>Note:</strong>
-  Blog archives are kept here. <strong>Archive</strong>
+  Blog archives are kept here. <strong>Cheers!</strong>
 </div>
 
 * [Humpday-Wednesday](/docs/archive/humpday)
