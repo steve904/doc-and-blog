@@ -36,9 +36,9 @@ layout: post
 
 Photos from Unsplash.com
 
-[Home](/)
-
 ### Canyon Photographs
+
+[Home](/)
 
 Photographer John Fowler knows how to wait for the right light to shoot canyon shots. His work is fantastic.
 
