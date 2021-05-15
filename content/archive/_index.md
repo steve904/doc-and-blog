@@ -32,4 +32,5 @@ seo:
       relativeUrl: true
 layout: advanced
 ---
+
 [Humpday-Wednesday](/archive/humpday)
