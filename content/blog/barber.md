@@ -55,3 +55,27 @@ Iron and Cloth sells hair and beard products. They also sell hats, t-shirts and 
 I can promise you that you will thoroughly enjoy your visit to Iron and Cloth. After your haircut you can stop in next door and get a wonderful cup of coffee. Check out the official website of Iron and Cloth and get to know the barbers. [Iron and Cloth ](https://ironandclothbarber.com/)
 
 ![](/images/inside-out-800px.jpg)
+
+## **Iron & Cloth Barbershop**
+
+[Iron and Cloth ](https://ironandclothbarber.com/)- Official Site
+
+214 West Friendly Avenue, Greensboro, North Carolina 27401, United States
+
+<ironandclothbarber@gmail.com>
+
+#### Hours
+
+Mon   08:00 am - 07:00 pm
+
+Tue    08:00 am – 07:00 pm
+
+Wed   08:00 am – 07:00 pm
+
+Thu    08:00 am – 07:00 pm
+
+Fri      08:00 am – 07:00 pm
+
+Sat     08:00 am – 02:00 pm
+
+**Sun    CLOSED**
