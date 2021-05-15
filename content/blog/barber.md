@@ -12,9 +12,8 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+## Iron and Cloth Barber Shop
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+What a great barber shop to go to. The barbers are very friendly and welcoming. They also know how to cut hair very, very well. They are located at 214 West Friendly Avenue, Greensboro, North Carolina. Give yourself a treat and book an appointment with them or just walk in and ask for a hair cut. 
 
-- Lorem ipsum
-- dolor sit amet
+![](/images/20210503\_800px-sharpened.jpg)
