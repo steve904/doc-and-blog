@@ -2,7 +2,7 @@
 title: Sunday
 subtitle: Sunny April Day
 date: '2021-04-11'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: super-oregano
 excerpt: 'Fresh Air...Ahhh, So Good!'
 seo:
   title: Sunday
