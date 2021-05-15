@@ -6,7 +6,7 @@ has_more_link: true
 more_link_text: Read more
 seo:
   title: Blog
-  description: This is the blog page
+  description: Doc and Blog
   extra:
     - name: 'og:type'
       value: website
