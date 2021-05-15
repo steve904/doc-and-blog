@@ -48,7 +48,7 @@ There are four beautiful vintage barber chairs that are very comfortable to sit 
 
 ## Hair and Beard
 
-Iron and Cloth sells hair and beard products. They also sell hats, t-shirts and other clothing items. You don't have to get a hair cut to buy these items...just walk in and look around.
+Iron and Cloth sells hair and beard products. They also sell hats, t-shirts and other clothing items. You don't have to get a haircut to buy these items...just walk in and look around.
 
 ***
 
