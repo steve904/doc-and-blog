@@ -20,7 +20,7 @@ image: images/famous-elm.jpg
 
 *Photo by: Sharegrid at Unsplash.com*
 
-[]
+[Home]
 
 <div class="note">
                 <strong>Hello Everyone:</strong>
