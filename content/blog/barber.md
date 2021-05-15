@@ -22,6 +22,10 @@ What a great barber shop to go to. The barbers are very friendly and welcoming. 
 
 ## ***Juke Box***
 
-The first thing you will probably notice when you walk into Iron and Cloth is the old Werlitzer juke box. That is quite an amazing sight and the bonus to that is...you can play any song or songs for free. 
+The first thing you will probably notice when you walk into Iron and Cloth is the old Werlitzer juke box. That is quite an amazing sight and the bonus to that is...you can play any song or songs for free.
 
 ![](/images/pleasant-moon.jpg)
+
+
+
+![](/images/jere-casey-800px.jpg)
