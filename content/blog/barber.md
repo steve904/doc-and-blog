@@ -50,4 +50,6 @@ Iron and Cloth sells hair and beard products. They also sell hats, t-shirts and 
 
 ![](/images/spectacular-mango.jpg)
 
+## **Enjoy Your Haircut Experience**
+
 ![](/images/inside-out-800px.jpg)
