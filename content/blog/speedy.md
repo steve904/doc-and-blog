@@ -16,6 +16,8 @@ layout: post
 ---
 ## Cruisin' In My Car
 
+[Home](/)
+
 ![](/images/jer-groc-car.png)
 *Photo by Stephen H Causey*
 
