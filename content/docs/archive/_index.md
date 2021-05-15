@@ -33,7 +33,3 @@ layout: docs
 * [Humpday-Wednesday](/docs/archive/humpday)
 * [Beautiful Day](/docs/archive/beautiful-day)
 * [Nice Photos - Canyon](/docs/archive/photos-canyon)
-
-
-
-[Blog](/blog)
