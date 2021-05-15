@@ -21,7 +21,7 @@ seo:
       value: This is the documentation page
 layout: docs
 ---
-Thanks for visiting Doc and Blog. Don't forget to check out the Archive for blogs that you may have missed.
+Thanks for visiting Doc and Blog. Don't forget to check out the **[Archive](/docs/archive)** for blogs that you may have missed.
 
 ***
 
