@@ -42,6 +42,8 @@ These are the barbers doing their magic. The barbers in this picture are Tom, Ma
 
 ## **Vintage Barber Chairs**
 
+There are four beautiful vintage barber chairs that are very comforatable to sit in. Feels like you are stepping back in time when you sit in one of these.
+
 ![](/images/barb-chair-800px.jpg)
 
 ## Hair and Beard
