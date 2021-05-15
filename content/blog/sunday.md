@@ -16,6 +16,8 @@ thumb_image: images/super-oregano.jpg
 ---
 ## Hide and seek
 
+[Home](/)
+
 {{< youtube VCpI-k3VGFs >}}
 
 The kids really enjoyed their game of hide and seek.
