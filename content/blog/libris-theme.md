@@ -42,6 +42,8 @@ layout: post
 
 ### Handsome Day
 
+[Home](/)
+
 Then sun was shining and the sky was very nice. Lot's of new blooms on the plants and trees. Red Bud trees look very handsome.
 
 ### Azalea
