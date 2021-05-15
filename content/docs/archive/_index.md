@@ -31,10 +31,9 @@ layout: docs
 </div>
 
 [Humpday-Wednesday](/docs/archive/humpday)
+[Beautiful Day](/docs/archive/beautiful-day)
+[Nice Photos - Canyon](/docs/archive/photos-canyon)
 
-* What is your next doc that you will post?
-* Write down a blog idea.
-* Start sharing your site with others.
-* Put together a lot of pictures to use on your site.
 
-## [Take me to your blog!](/blog)
+
+[Blog](/blog)
