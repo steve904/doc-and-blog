@@ -52,6 +52,6 @@ Iron and Cloth sells hair and beard products. They also sell hats, t-shirts and 
 
 ## **Enjoy Your Haircut Experience**
 
-I can promise you that you will thoroughly enjoy your visit to Iron and Cloth. After your haircut you can stop in next door and get a wonderful cup of coffee. 
+I can promise you that you will thoroughly enjoy your visit to Iron and Cloth. After your haircut you can stop in next door and get a wonderful cup of coffee. Check out the official website of Iron and Cloth and get to know the barbers: 
 
 ![](/images/inside-out-800px.jpg)
