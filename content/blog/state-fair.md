@@ -34,7 +34,7 @@ layout: post
 ---
 ### The State Fair - So Much Fun
 
-
+[Home](/)
 
 Will the State Fair be a thing of the past or will it somehow survive through the murky waters of shut-downs, virus and fear?
 
