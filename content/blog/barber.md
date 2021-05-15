@@ -3,7 +3,7 @@ title: Iron and Cloth
 subtitle: "Barber Shop\_ Downtown Greensboro, NC"
 date: '2021-05-15'
 thumb_image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: The Feel Good Barber Shop
 seo:
   title: ''
   description: ''
