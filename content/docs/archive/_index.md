@@ -33,3 +33,10 @@ layout: docs
 * [Humpday-Wednesday - May 12, 2021](/docs/archive/humpday)
 * [Beautiful Day - April 09, 2021](/docs/archive/beautiful-day)
 * [Nice Photos - Canyon - April 08, 2021](/docs/archive/photos-canyon)
+
+
+<div class="important">
+  <strong>Important:</strong>
+  Check back often for updates.
+</div>
+            
