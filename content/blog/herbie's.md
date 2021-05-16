@@ -7,7 +7,7 @@ thumb_image: images/charisse-kenion-w4VtT8jQL6A-unsplash.jpg
 thumb_image_alt: breakfast
 excerpt: ''
 seo:
-  title: 'Herbie's Place'
+  title: 'Herbie's'
   description: 'Food'
   robots: []
   extra: []
