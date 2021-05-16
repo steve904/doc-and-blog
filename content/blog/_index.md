@@ -1,7 +1,7 @@
 ---
 title: Blog
 subtitle: Put your blogging shoes on!
-image: images/3.jpg
+image: images/tim-mossholder-unsplash-800px.png
 has_more_link: true
 more_link_text: Read more
 seo:
