@@ -24,9 +24,8 @@ layout: docs
 ---
 This site was born on Thursday 04/08/2021. Brand new and squeaky clean.
 
+[Showcase](/showcase/)
+
 ***
 
 ## [Take me to your blog!](/blog)
-
-
-
