@@ -62,6 +62,9 @@ Everything was very tasty. The buttered pineapple was sooooo good.
 
 <sm> *-Stephen H Causey* </sm>
 
+***
+[Archive](/docs/archive/)
+
 <div class="commentbox"></div>
 <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
 <script>commentBox('5687376550559744-proj')</script>

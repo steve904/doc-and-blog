@@ -56,3 +56,6 @@ Hi, I'm Stephen Causey...
 https://www.dirtroadblog.com/
 
 A great day to you!
+
+***
+[Archive](/docs/archive/)

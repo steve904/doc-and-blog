@@ -104,8 +104,5 @@ For the nice, old camera with large bulb...
 For the beautiful, black lens...
 **Sharegrid-Unsplash**
 
-
-
-
-
 ***
+[Archive](/docs/archive/)

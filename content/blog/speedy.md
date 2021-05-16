@@ -33,3 +33,6 @@ As for now, I have to go shopping in my fast, nice looking car. Check out my lis
 *   Hot Dogs
 *   Candy
 *   Juice
+
+***
+[Archive](/docs/archive/)
