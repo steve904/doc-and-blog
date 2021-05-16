@@ -42,4 +42,4 @@ layout: docs
   Check back often for updates.
 </div>
 
-[Showcase](/showcase/)
+[Showcase - Very nice showcase themes](/showcase/)
