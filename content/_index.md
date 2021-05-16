@@ -50,7 +50,7 @@ sections:
         url: /
         style: primary
 seo:
-  title: Stackbit Libris Theme
+  title: Doc and Blog
   description: The preview of the Libris theme
   extra:
     - name: 'og:type'
