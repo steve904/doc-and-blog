@@ -50,7 +50,7 @@ Gotta have some grilled corn to go with this. Wish me luck finding some fresh co
 
 ## *Update*
 
-I decided not to put the pineapple & cherry tomatoes on the skewers. I cooked them in a frying pan with butter and added them to the meal later.
+I decided not to put the pineapple & cherry tomatoes on the skewers. I fried them with butter and added them to the meal later.
 
 We did not have corn or potatoes. Changed my mind and did not fix these. We had Knorr rice & pasta blend with mushroom flavored sauce. Also...Texas toast.
 
