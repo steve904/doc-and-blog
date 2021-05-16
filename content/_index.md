@@ -51,7 +51,7 @@ sections:
         style: primary
 seo:
   title: Doc and Blog
-  description: The preview of the Libris theme
+  description: A document and blog site by Stephen H Causey
   extra:
     - name: 'og:type'
       value: website
