@@ -8,7 +8,7 @@ thumb_image_alt: breakfast
 excerpt: Herbie's Breakfast
 seo:
   title: 'Herbie's Place'
-  description: 'Food, breakfast'
+  description: 'Food'
   robots: []
   extra: []
   type: stackbit_page_meta
