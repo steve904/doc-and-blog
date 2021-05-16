@@ -5,7 +5,7 @@ date: '2021-04-16'
 image: images/great-giraffe.jpg
 thumb_image: images/charisse-kenion-w4VtT8jQL6A-unsplash.jpg
 thumb_image_alt: breakfast
-excerpt: 
+excerpt: ''
 seo:
   title: 'Herbie's Place'
   description: 'Food'
