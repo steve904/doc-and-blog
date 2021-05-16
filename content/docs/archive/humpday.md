@@ -43,3 +43,6 @@ Looking at putting in a hardwood floor. The wood is hickory and it is 5" wide an
 ## Pictures
 
 If I get a chance I will post some pictures of some of the work being done. No promises.
+
+***
+[Archive](/docs/archive/)

@@ -50,3 +50,6 @@ The azalea bushes in the back yard are blooming. Brilliant white and so nice to 
 
 ***Check out my Dirt Road Blog***
 https://www.dirtroadblog.com/
+
+***
+[Archive](/docs/archive/)

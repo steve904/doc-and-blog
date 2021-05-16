@@ -46,3 +46,6 @@ Iron and Cloth barbershop located in downtown Greensboro, N.C. got a vintage juk
 > \- Ronny Chieng
 
 [Home](/)
+
+***
+[Archive](/docs/archive/)
