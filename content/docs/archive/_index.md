@@ -41,3 +41,5 @@ layout: docs
   <strong>Important:</strong>
   Check back often for updates.
 </div>
+
+[Showcase](/showcase/)
