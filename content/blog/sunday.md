@@ -6,7 +6,7 @@ thumb_image_alt: super-oregano
 excerpt: 'Fresh Air...Ahhh, So Good!'
 seo:
   title: Sunday
-  description: Sunny Day
+  description: Sunshine
   robots: []
   extra: []
   type: stackbit_page_meta

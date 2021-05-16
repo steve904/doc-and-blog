@@ -16,7 +16,7 @@ seo:
       value: Lulu Cat
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 'cat'
       keyName: property
     - name: 'og:image'
       value: lulu-dog-bowl.JPG
@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:title'
       value: New Conference
     - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 'cat'
     - name: 'twitter:image'
       value: lulu-dog-bowl.JPG
       relativeUrl: true

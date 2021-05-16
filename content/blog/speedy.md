@@ -8,7 +8,7 @@ thumb_image_alt: Speedy-Car
 excerpt: Let's Go Shopping!
 seo:
   title: 'Speedy Car'
-  description: 'Grocery-Car'
+  description: 'Grocery, shopping'
   robots: []
   extra: []
   type: stackbit_page_meta

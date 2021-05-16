@@ -7,8 +7,8 @@ image: images/tim-mossholder-unsplash-800px.png
 thumb_image_alt: barber-shop
 excerpt: The Feel Good Barber Shop
 seo:
-  title: ''
-  description: ''
+  title: 'Iron and Cloth'
+  description: 'Barbershop'
   robots: []
   extra: []
   type: stackbit_page_meta

@@ -6,7 +6,7 @@ thumb_image_alt: Stephen H Causey
 excerpt: Time for Some Killin' Grillin'
 seo:
   title: 'Shish Kabob'
-  description: 'Grilling-Shish-Kabob'
+  description: 'Shish Kabob'
   robots: []
   extra: []
   type: stackbit_page_meta

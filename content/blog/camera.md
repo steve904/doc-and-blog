@@ -6,7 +6,7 @@ thumb_image_alt: lens
 excerpt: Time for Senior Photos
 seo:
   title: 'Lights, Action, Camera!'
-  description: 'Photography-Senior-Shots'
+  description: 'Photography'
   robots: []
   extra: []
   type: stackbit_page_meta
