@@ -34,6 +34,8 @@ layout: post
 ---
 ### The State Fair - So Much Fun
 
+[Home](/)
+
 Will the State Fair be a thing of the past or will it somehow survive through the murky waters of shut-downs, virus and fear?
 
 Could it be drastically changed so that only a much smaller group can enter the fairgrounds by appointment only?

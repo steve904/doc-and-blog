@@ -20,6 +20,8 @@ image: images/famous-elm.jpg
 
 *Photo by: Sharegrid at Unsplash.com*
 
+[Home](/)
+
 <div class="note">
                 <strong>Hello Everyone:</strong>
                 Stephen Causey here and I've got a couple of senior portraits to take. One for my son, Joe...and also for Crystal's daughter...Jessica. The date, place and time for Jessica's shoot has been established. Come on Joe...you have to catch up!

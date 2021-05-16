@@ -36,6 +36,8 @@ layout: post
 
 ### We're Grown Now
 
+[Home](/)
+
 Man, time has really flown by. Most of these kids are 18 years old now. They will be graduating from high school in about 2 1/2 months
 
 My son, Joe is in the back row, 3rd from the right...in the blue t-shirt. I remember him so well at that age. We used to call him "Hurricane Joe" because he could run so fast in flag football.

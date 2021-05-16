@@ -34,6 +34,8 @@ seo:
 layout: post
 ---
 
+[Home](/)
+
 **LuLu the cat**, sleep anywhere you like...even in dog bowls
 
 **I can sleep anywhere and make it look comfortable. Bet you can't do that.**
