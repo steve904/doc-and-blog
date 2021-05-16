@@ -1,5 +1,5 @@
 ---
-title: Herbie's Cafe
+title: Herbie's Place
 subtitle: Breakfast Time
 date: '2021-04-16'
 image: images/great-giraffe.jpg
@@ -7,7 +7,7 @@ thumb_image: images/charisse-kenion-w4VtT8jQL6A-unsplash.jpg
 thumb_image_alt: breakfast
 excerpt: Herbie's Breakfast
 seo:
-  title: 'Herbie's Cafe'
+  title: 'Herbie's Place'
   description: 'Food, breakfast'
   robots: []
   extra: []
@@ -20,7 +20,7 @@ layout: post
 
 [Home](/)
 
-Enjoyed going to Herbie's on Battleground in Greensboro, N.C. this morning. The people are always so nice there. Great breakfast and very fulfilling to go back for the second time in two weeks after more than a year of staying away from eating out because of the crazy virus. <sm>*-Stephen H Causey*</sm>
+Enjoyed going to Herbie's Place on Battleground in Greensboro, N.C. this morning. The people are always so nice there. Great breakfast and very fulfilling to go back for the second time in two weeks after more than a year of staying away from eating out because of the crazy virus. <sm>*-Stephen H Causey*</sm>
 
 ![](/images/marvelous-zebra.jpg)
 
