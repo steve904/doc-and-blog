@@ -30,10 +30,10 @@ layout: docs
   Blog archives are kept here. <strong>Cheers!</strong>
 </div>
 
-* [Humpday-Wednesday - May 12, 2021](/docs/archive/humpday)
-* [Beautiful Day - April 09, 2021](/docs/archive/beautiful-day)
 * [Nice Photos - Canyon - April 08, 2021](/docs/archive/photos-canyon)
-* [Herbie's Place - April 16, 2021](/docs/archive/herbies/)   
+* [Beautiful Day - April 09, 2021](/docs/archive/beautiful-day)
+* [Herbie's Place - April 16, 2021](/docs/archive/herbies/)  
+* [Humpday-Wednesday - May 12, 2021](/docs/archive/humpday)
 
 
 <div class="important">
