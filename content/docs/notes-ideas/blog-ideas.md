@@ -13,5 +13,12 @@ layout: docs
 ## Blog Ideas
 
 When something interesting pops up make sure to put the idea here for a future blog post
-- Dogs and Cats
+- Dogs / Cats
 - Outdoors / Hiking
+- Food on the grill
+- Family
+- Wildlife
+- Travel
+- Photography
+- Music
+- Songwriting
