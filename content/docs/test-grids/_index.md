@@ -1,5 +1,5 @@
 ---
-title: Home-2-experiment
+title: Test Page - Grids
 sections:
   - section_id: hero
     type: section_hero
