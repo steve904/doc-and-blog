@@ -28,4 +28,4 @@ This site was born on Thursday 04/08/2021. Brand new and squeaky clean.
 
 ***
 
-## [Take me to your blog!](/blog)
+## [Blog](/blog)

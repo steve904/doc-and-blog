@@ -25,4 +25,4 @@ Thanks for visiting Doc and Blog. Don't forget to check out the **[Archive](/doc
 
 ***
 
-## [Take me to your blog!](/blog)
+## [Blog](/blog)
