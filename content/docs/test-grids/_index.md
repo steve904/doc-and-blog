@@ -3,10 +3,10 @@ title: Test Page - Grids
 sections:
   - section_id: hero
     type: section_hero
-    title: Doc and Blog
+    title: Grid Layout
     image: images/wheeler-geo-john-fowler.jpg
     content: >-
-      Welcome to Doc and Blog. Keeping the documents and the blogs at the same place.
+      A place to practice grid layout. Experiment with it.
     actions:
       - label: Get Started
         url: /docs
