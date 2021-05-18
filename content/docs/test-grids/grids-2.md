@@ -2,15 +2,6 @@
 title: Grid Layouts -2
 weight: 1
 excerpt: Experiment with these grids.
-seo:
-  title: 'Grid Layouts'
-  description: 'Place to practice grid layouts.'
-  robots: []
-  extra: []
-  type: stackbit_page_meta
-layout: docs
----
-
 grid_items:
   - title: Documentation
     content: >-
@@ -63,3 +54,12 @@ grid_items:
     - label: Get Started
       url: /docs/getting-started/installation
       style: primary
+
+seo:
+  title: 'Grid Layouts'
+  description: 'Place to practice grid layouts.'
+  robots: []
+  extra: []
+  type: stackbit_page_meta
+layout: docs
+---
