@@ -21,7 +21,7 @@ grid_items:
         url: /blog
         style: link
 
-
+sections:
 - section_id: features-two-col
   type: section_grid
   title: Sample Layouts
