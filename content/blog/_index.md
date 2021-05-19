@@ -1,6 +1,6 @@
 ---
 title: Blog
-subtitle: Put your blogging shoes on!
+subtitle: Hi...I'm Stephen Causey. Welcome to Doc and Blog.
 image: images/tim-mossholder-unsplash-800px.png
 has_more_link: true
 more_link_text: Read more
