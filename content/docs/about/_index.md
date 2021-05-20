@@ -1,6 +1,6 @@
 ---
 title: About
-excerpt: Hi! I'm Stephen Causey and I love tinkering with blogs and documentation.
+excerpt: Hi! I'm Stephen Causey. Welcome to Doc and Blog.
 seo:
   title: About
   description: This is the about page

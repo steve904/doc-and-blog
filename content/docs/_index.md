@@ -21,7 +21,7 @@ seo:
       value: This is the documentation page
 layout: docs
 ---
-Thanks for visiting Doc and Blog. Don't forget to check out the **[Archive](/docs/archive)** for blogs that you may have missed.
+I'm Stephen Causey. Thanks for visiting Doc and Blog. Don't forget to check out the **[Archive](/docs/archive)** for blogs that you may have missed.
 
 ***
 
